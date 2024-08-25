@@ -1,0 +1,1065 @@
+EXL Service
+
+
+
+EXL Second Quarter Results 2024
+EXL Reports 2024 Second Quarter Results
+Aug 01, 2024
+2024 Second Quarter Revenue of $448.4 Million, up 10.7% year-over-year
+Q2 Diluted EPS (GAAP) of $0.28, down 4.1% from $0.29 in Q2 of 2023
+Q2 Adjusted Diluted EPS (Non-GAAP) (1) (2) of $0.40, up 10.8% from $0.36 in Q2 of 2023
+NEW YORK, Aug. 01, 2024 (GLOBE NEWSWIRE) -- ExlService Holdings, Inc. (Nasdaq: EXLS), a leading data analytics and digital operations and
+solutions company, today announced its financial results for the quarter ended June 30, 2024.
+Rohit Kapoor, chairman and chief executive officer, said, “We are pleased with our second quarter results. We delivered both revenue and adjusted
+diluted EPS growth of 11%. The ongoing execution of our data and AI-led strategy enabled us to accelerate our growth rates across both our data
+analytics and digital operations and solutions businesses during the quarter as we continue our momentum heading into the second half of 2024.”
+Maurizio Nicolelli, chief financial officer, said, “Based on our current visibility for the remainder of the year and the ITI Data acquisition, we are raising
+the full-year guidance range for revenue. We now expect revenue to be in the range of $1.805 billion to $1.830 billion, up from our prior guidance of
+$1.790 billion to $1.820 billion. This represents 11% to 12% year-over-year growth on both a reported and constant currency basis. We now expect our
+adjusted diluted earnings per share for 2024 to be in the range of $1.59 to $1.62, up from our prior guidance of $1.58 to $1.62, representing growth of
+11% to 13% over the prior year.”
+
+
+(1) Prior period information has been adjusted to reflect the 5-for-1 forward stock split of our common stock effected in August 2023. See Note 19 –
+Capital Structure to consolidated financial statements included in our Annual Report on Form 10-K for the year ended December 31, 2023, for further
+details.
+(2) Reconciliations of adjusted (non-GAAP) financial measures to the most directly comparable GAAP measures, where applicable, are included at the
+end of this release under “Reconciliation of Adjusted Financial Measures to GAAP Measures.” These non-GAAP measures, including adjusted diluted
+EPS and constant currency measures, are not measures of financial performance prepared in accordance with GAAP.
+Financial Highlights: Second Quarter 2024
+Revenue for the quarter ended June 30, 2024 increased to $448.4 million compared to $405.0 million for the second
+quarter of 2023, an increase of 10.7% on a reported basis and 10.8% on a constant currency basis. Revenue increased by
+2.7% sequentially on a reported basis and 2.8% on a constant currency basis, from the first quarter of 2024.
+
+Operating income margin for the quarter ended June 30, 2024, was 13.7%, compared to 16.0% for the second quarter of
+2023 and 14.1% for the first quarter of 2024. Adjusted operating income margin for the quarter ended June 30, 2024, was
+19.8%, compared to 20.0% for the second quarter of 2023 and 18.9% for the first quarter of 2024.
+Diluted earnings per share for the quarter ended June 30, 2024, was $0.28, compared to $0.29, both, for the second
+quarter of 2023 and first quarter of 2024. Adjusted diluted earnings per share for the quarter ended June 30, 2024, was
+$0.40, compared to $0.36 for the second quarter of 2023 and $0.38 for the first quarter of 2024.
+
+Business Highlights: Second Quarter 2024
+Won 23 new clients in the second quarter of 2024, with 10 clients in digital operations and solutions business and 13
+clients in analytics.
+Established a strategic collaboration with NVIDIA to create domain-trained, enterprise-wide data and AI applications for
+insurance, healthcare, banking, retail and other industries.
+Announced the acquisition of ITI Data, a data management solutions firm that works with the world’s largest banks,
+financial services and healthcare companies. This acquisition is expected to add $7 million to $9 million in revenue for the
+remainder of 2024 and be neutral to adjusted diluted EPS.
+EXL celebrated its 25th anniversary, marking the event by ringing the opening bell at Nasdaq.
+2024 Guidance
+Based on current visibility, and a U.S. dollar to Indian rupee exchange rate of 83.5, U.K. pound sterling to U.S. dollar exchange rate of 1.27, U.S. dollar
+to the Philippine peso exchange rate of 58.5 and all other currencies at current exchange rates, we are providing the following guidance for the full
+year 2024:
+Revenue of $1.805 billion to $1.830 billion, representing an increase of 11% to 12% on both a reported and constant
+currency basis from 2023.
+Adjusted diluted earnings per share of $1.59 to $1.62, representing an increase of 11% to 13% from 2023.
+
+About ExlService Holdings, Inc.
+
+EXL was founded in 1999 with the core values of innovation, collaboration, excellence, integrity and
+respect. We are headquartered in New York and have more than 55,000 employees spanning six continents. 
+
+
+
+Reconciliation of Adjusted Financial Measures to GAAP Measures
+In addition to its reported operating results in accordance with U.S. generally accepted accounting principles (GAAP), EXL has included in this release
+certain financial measures that are considered non-GAAP financial measures, including the following:
+i. Adjusted operating income and adjusted operating income margin;
+ii. Adjusted EBITDA and adjusted EBITDA margin;
+iii. Adjusted net income and adjusted diluted earnings per share; and
+iv. Revenue growth on constant currency basis.
+These non-GAAP financial measures are not based on any comprehensive set of accounting rules or principles, should not be considered a substitute
+for, or superior to, financial measures calculated in accordance with GAAP, and may be different from non-GAAP financial measures used by other
+companies. Accordingly, the financial results calculated in accordance with GAAP and reconciliations from those financial statements should be
+carefully evaluated. EXL believes that providing these non-GAAP financial measures may help investors better understand EXL’s underlying financial
+performance. Management also believes that these non-GAAP financial measures, when read in conjunction with EXL’s reported results, can provide
+useful supplemental information for investors analyzing period-to-period comparisons of the Company’s results and comparisons of the Company’s
+results with the results of other companies. Additionally, management considers some of these non-GAAP financial measures to determine variable
+compensation of its employees. The Company believes that it is unreasonably difficult to provide its earnings per share financial guidance in
+accordance with GAAP, or a qualitative reconciliation thereof, for a number of reasons, including, without limitation, the Company’s inability to predict
+its future stock-based compensation expense under ASC Topic 718, the amortization of intangibles associated with future acquisitions and the
+currency fluctuations and associated tax effects. As such, the Company presents guidance with respect to adjusted diluted earnings per share. The
+Company also incurs significant non-cash charges for depreciation that may not be indicative of the Company’s ability to generate cash flow.
+EXL non-GAAP financial measures exclude, where applicable, stock-based compensation expense, amortization of acquisition-related intangible
+assets, restructuring costs, litigation settlement costs and associated legal fees, effects of termination of leases, certain defined social security
+contributions, allowance for certain material expected credit losses, other acquisition-related expenses or benefits and effect of any non-recurring tax
+adjustments. Acquisition-related expenses or benefits include, changes in the fair value of contingent consideration, external deal costs, integration
+expenses, direct and incremental travel costs and non-recurring benefits or losses. Our adjusted net income and adjusted diluted EPS also excludes
+the effects of income tax on the above pre-tax items, as applicable. The effects of income tax of each item is calculated by applying the statutory rate
+of the local tax regulations in the jurisdiction in which the item was incurred.
+A limitation of using non-GAAP financial measures versus financial measures calculated in accordance with GAAP is that non-GAAP financial
+measures do not reflect all of the amounts associated with our operating results as determined in accordance with GAAP and exclude costs that are
+recurring, namely stock-based compensation and amortization of acquisition-related intangible assets. EXL compensates for these limitations by
+providing specific information regarding the GAAP amounts excluded from non-GAAP financial measures to allow investors to evaluate such
+non-GAAP financial measures.
+EXL’s primary exchange rate exposure is with the Indian rupee, the Philippine peso, the U.K. pound sterling and the South African rand. The average
+exchange rate of the U.S. dollar against the Indian rupee increased from 82.20 during the quarter ended June 30, 2023 to 83.42 during the quarter
+ended June 30, 2024, representing a depreciation of 1.5% against the U.S. dollar. The average exchange rate of the U.S. dollar against the Philippine
+peso increased from 55.58 during the quarter ended June 30, 2023 to 58.29 during the quarter ended June 30, 2024, representing a depreciation of
+4.9% against the U.S. dollar. The average exchange rate of the U.K. pound sterling against the U.S. dollar increased from 1.25 during the quarter
+ended June 30, 2023 to 1.26 during the quarter ended June 30, 2024, representing an appreciation of 0.8% against the U.S. dollar. The average
+exchange rate of the U.S. dollar against the South African rand decreased from 19.02 during the quarter ended June 30, 2023 to 18.53 during the
+quarter ended June 30, 2024, representing an appreciation of 2.6% against the U.S. dollar.
+
+
+
+EXL First Quarter Results 2024
+EXL Reports 2024 First Quarter Results
+May 02, 2024
+2024 First Quarter Revenue of $436.5 Million, up 9.0% year-over-year
+Q1 Diluted EPS (GAAP) (1) of $0.29, down 3.3% from $0.30 in Q1 of 2023
+Q1 Adjusted Diluted EPS (Non-GAAP) (1) (2) of $0.38, up 8.9% from $0.35 in Q1 of 2023
+NEW YORK, May 02, 2024 (GLOBE NEWSWIRE) -- ExlService Holdings, Inc. (NASDAQ: EXLS), a leading data analytics and digital operations and
+solutions company, today announced its financial results for the quarter ended March 31, 2024.
+Rohit Kapoor, Chairman and Chief Executive Officer, said, “We are pleased with our first quarter results and solid start to the year, as we delivered
+revenue growth and adjusted diluted EPS growth of 9%. Our data and AI-led strategy, combined with our deep domain expertise, continues to
+resonate with our clients and fuel our above industry average growth rates. The consistent execution of our differentiated strategy has enabled us to
+continue our momentum into 2024.”
+Maurizio Nicolelli, Chief Financial Officer, said, “While we remain cautious on the macro-economic environment, we are raising the bottom of our range
+for both revenue and EPS based on our solid momentum in the first quarter and current visibility for the remainder of the year. We now expect revenue
+to be in the range of $1.79 billion to $1.82 billion, up from our prior guidance of $1.78 billion to $1.82 billion. This represents 10% to 12%
+year-over-year growth on both a reported and constant currency basis. We now expect our adjusted diluted earnings per share for 2024 to be in the
+range of $1.58 to $1.62, up from our prior guidance of $1.56 to $1.62, representing growth of 10% to 13% over the prior year.”
+
+Prior period information has been adjusted to reflect the 5-for-1 forward stock split of our common stock effected in August
+2023. See Note 19 – Capital Structure to consolidated financial statements included in our Annual Report on Form 10-K for
+the year ended December 31, 2023, for further details.
+1. 
+Reconciliations of adjusted (non-GAAP) financial measures to the most directly comparable GAAP measures, where
+applicable, are included at the end of this release under “Reconciliation of Adjusted Financial Measures to GAAP
+Measures.” These non-GAAP measures, including adjusted diluted EPS and constant currency measures, are not
+measures of financial performance prepared in accordance with GAAP.
+2. 
+Financial Highlights: First Quarter 2024
+Revenue for the quarter ended March 31, 2024, increased to $436.5 million compared to $400.6 million for the first quarter
+of 2023, an increase of 9.0% on a reported basis and 8.8% on a constant currency basis. Revenue increased by 5.4%
+sequentially on a reported basis and constant currency basis, from the fourth quarter of 2023.
+
+Operating income margin for the quarter ended March 31, 2024 was 14.1%, compared to 14.8% for the first quarter of
+2023 and 13.1% for the fourth quarter of 2023. Adjusted operating income margin for the quarter ended March 31, 2024
+was 18.9%, compared to 19.4% for the first quarter of 2023 and 17.8% for the fourth quarter of 2023.
+Diluted earnings per share for the quarter ended March 31, 2024 was $0.29, compared to $0.30 for the first quarter of
+2023 and $0.24 for the fourth quarter of 2023. Adjusted diluted earnings per share for the quarter ended March 31, 2024
+was $0.38, compared to $0.35, both for the first quarter of 2023 and the fourth quarter of 2023.
+Business Highlights: First Quarter 2024
+Won 16 new clients in the first quarter of 2024, with 6 clients in the digital operations and solutions business and 10 clients
+in analytics.
+EXL named top performer and Leader among the 26 leading analytics and AI service providers in Everest Group’s
+Analytics and Artificial Intelligence (AI) Services Specialists PEAK Matrix® Assessment 2024.
+Held an AI in Action virtual customer symposium attended by over 2,300 clients, prospects, analysts, advisors and
+partners. The event highlighted the use of enterprise data to bridge the gap between strategy and operations and make AI
+real. A replay can be found here.
+Rohit Kapoor named chairman, Vikram Pandit transitioned to lead director; Thomas Bartlett appointed to EXL’s board of
+directors and will serve on the board’s audit committee and nominating and governance committee.
+Vikas Bhalla and Vivek Jetley named president of EXL in addition to their current roles of head of insurance and head of
+analytics, respectively.
+EXL entered into an accelerated share repurchase agreement to repurchase $125 million of the company’s common stock
+as part of its current $500 million stock repurchase program.
+2024 Guidance
+Based on current visibility, and a U.S. dollar to Indian rupee exchange rate of 83.50, U.K. pound sterling to U.S. dollar exchange rate of 1.27, U.S.
+dollar to the Philippine peso exchange rate of 57.50 and all other currencies at current exchange rates, we are providing the following guidance for the
+full year 2024:
+Revenue of $1.79 billion to $1.82 billion, representing an increase of 10% to 12% on both a reported and constant
+currency basis from 2023.
+Adjusted diluted earnings per share of $1.58 to $1.62, representing an increase of 10% to 13% from 2023.
+
+Reconciliation of Adjusted Financial Measures to GAAP Measures
+In addition to its reported operating results in accordance with U.S. generally accepted accounting principles (GAAP), EXL has included in this release
+certain financial measures that are considered non-GAAP financial measures, including the following:
+(i) Adjusted operating income and adjusted operating income margin;
+(ii) Adjusted EBITDA and adjusted EBITDA margin;
+(iii) Adjusted net income and adjusted diluted earnings per share; and
+(iv) Revenue growth on constant currency basis.
+These non-GAAP financial measures are not based on any comprehensive set of accounting rules or principles, should not be considered a substitute
+for, or superior to, financial measures calculated in accordance with GAAP, and may be different from non-GAAP financial measures used by other
+companies. Accordingly, the financial results calculated in accordance with GAAP and reconciliations from those financial statements should be
+carefully evaluated. EXL believes that providing these non-GAAP financial measures may help investors better understand EXL’s underlying financial
+performance. Management also believes that these non-GAAP financial measures, when read in conjunction with EXL’s reported results, can provide
+useful supplemental information for investors analyzing period-to-period comparisons of the Company’s results and comparisons of the Company’s
+results with the results of other companies. Additionally, management considers some of these non-GAAP financial measures to determine variable
+compensation of its employees. The Company believes that it is unreasonably difficult to provide its earnings per share financial guidance in
+accordance with GAAP, or a qualitative reconciliation thereof, for a number of reasons, including, without limitation, the Company’s inability to predict
+its future stock-based compensation expense under ASC Topic 718, the amortization of intangibles associated with future acquisitions and the
+currency fluctuations and associated tax effects. As such, the Company presents guidance with respect to adjusted diluted earnings per share. The
+Company also incurs significant non-cash charges for depreciation that may not be indicative of the Company’s ability to generate cash flow.
+EXL non-GAAP financial measures exclude, where applicable, stock-based compensation expense, amortization of acquisition-related intangible
+assets, provision for litigation matters, effects of termination of leases, certain defined social security contributions, allowance for certain material
+expected credit losses, other acquisition-related expenses or benefits and effect of any non-recurring tax adjustments. Acquisition-related expenses or
+benefits include, changes in the fair value of contingent consideration, external deal costs, integration expenses, direct and incremental travel costs
+and non-recurring benefits or losses. Our adjusted net income and adjusted diluted EPS also excludes the effects of income tax on the above pre-tax
+items, as applicable. The effects of income tax of each item is calculated by applying the statutory rate of the local tax regulations in the jurisdiction in
+which the item was incurred.
+A limitation of using non-GAAP financial measures versus financial measures calculated in accordance with GAAP is that non-GAAP financial
+measures do not reflect all of the amounts associated with our operating results as determined in accordance with GAAP and exclude costs that are
+recurring, namely stock-based compensation and amortization of acquisition-related intangible assets. EXL compensates for these limitations by
+providing specific information regarding the GAAP amounts excluded from non-GAAP financial measures to allow investors to evaluate such
+non-GAAP financial measures.
+EXL’s primary exchange rate exposure is with the Indian rupee, the U.K. pound sterling and the Philippine peso. The average exchange rate of the
+U.S. dollar against the Indian rupee increased from 82.25 during the quarter ended March 31, 2023 to 83.12 during the quarter ended March 31, 2024,
+representing a depreciation of 1.1% against the U.S. dollar. The average exchange rate of the U.S. dollar against the Philippine peso increased from
+54.78 during the quarter ended March 31, 2023 to 56.24 during the quarter ended March 31, 2024, representing a depreciation of 2.7% against the
+U.S. dollar. The average exchange rate of the U.K. pound sterling against the U.S. dollar increased from 1.23 during the quarter ended March 31, 2023
+to 1.27 during the quarter ended March 31, 2024, representing an appreciation of 3.2% against the U.S. dollar.
+
+
+EXL Annual Report 2023
+EXL Reports 2023 Fourth Quarter and Year-End Results¹; Issues 2024 Guidance
+Feb 29, 2024
+2023 Fourth Quarter Revenue of $414.1 Million, up 10.5% year-over-year
+Q4 Diluted EPS (GAAP) of $0.24, up 28.2% from $0.19 in Q4 of 2022
+Q4 Adjusted Diluted EPS (Non-GAAP) (2) of $0.35, up 11.3% from $0.31 in Q4 of 2022
+2023 Revenue of $1.63 Billion, up 15.5% year-over-year
+2023 Diluted EPS (GAAP) of $1.10, up 29.9% from $0.85 in 2022
+2023 Adjusted Diluted EPS (Non-GAAP) (2) of $1.43, up 19.1% from $1.20 in 2022
+NEW YORK, Feb. 29, 2024 (GLOBE NEWSWIRE) -- ExlService Holdings, Inc. (NASDAQ: EXLS), a leading data analytics and digital operations and
+solutions company, today announced its financial results for the quarter and full year ended December 31, 2023.
+Rohit Kapoor, Vice Chairman and Chief Executive Officer, said, “In 2023, we achieved revenue growth of 16% and EPS growth of 19%, despite a
+challenging macro-economic environment and lower demand across the IT services industry. During the year, we made a strategic pivot in our strategy
+– to be data- and AI-led in everything we do. This strategy, and the meaningful investments we have made in our data and AI capabilities, put EXL in a
+leading market position as clients continue to recognize our differentiated value proposition. With our proven strategy, unique data, analytics and AI
+capabilities and an exceptionally talented and dedicated team, we believe EXL is well positioned to continue to outperform the industry in 2024 and
+beyond.”
+Maurizio Nicolelli, Chief Financial Officer, said, “We ended 2023 with strong momentum across our business, a healthy balance sheet and solid free
+cash flow. While we are mindful of the economic uncertainty heading into 2024, we remain confident we will deliver above industry average revenue
+and EPS growth in 2024. Our guidance for 2024 revenue is in the range of $1.78 billion to $1.82 billion, representing a 9% to 12% increase
+year-over-year on both a reported and constant currency basis. We expect adjusted diluted EPS to be in the range of $1.56 to $1.62, representing a
+9% to 13% increase over 2023.
+“Our Board of Directors authorized a $500 million common stock repurchase program, effective March 1, 2024, for a two-year period, in line with our
+capital allocation strategy. This new authorization of $500 million represents confidence in our ability to continue our growth trajectory and generate
+significant free cash flow.”
+
+Prior period information has been adjusted to reflect the 5-for-1 forward stock split of our common stock effected in August
+2023. See Note 19 – Capital Structure to our Annual Report on Form 10-K for the year ended December 31, 2023 for
+further details.
+1. 
+Reconciliations of adjusted (non-GAAP) financial measures to the most directly comparable GAAP measures, where
+applicable, are included at the end of this release under “Reconciliation of Adjusted Financial Measures to GAAP
+Measures.” These non-GAAP measures, including adjusted diluted EPS and constant currency measures, are not
+measures of financial performance prepared in accordance with GAAP.
+2. 
+Financial Highlights: Fourth Quarter 2023
+Revenue for the quarter ended December 31, 2023 increased to $414.1 million compared to $374.7 million for the fourth
+quarter of 2022, an increase of 10.5% on a reported basis and 10.1% on a constant currency basis. Revenue increased by
+0.8% sequentially on reported basis and constant currency basis, from the third quarter of 2023.
+
+Operating income margin for the quarter ended December 31, 2023 was 13.1%, compared to 13.6% for the fourth quarter
+of 2022 and 14.7% for the third quarter of 2023. Adjusted operating income margin for the quarter ended December 31,
+2023 was 17.8%, compared to 18.0% for the fourth quarter of 2022 and 20.0% for the third quarter of 2023.
+Diluted earnings per share for the quarter ended December 31, 2023 was $0.24, compared to $0.19 for the fourth quarter
+of 2022 and $0.26 for the third quarter of 2023. Adjusted diluted earnings per share for the quarter ended December 31,
+2023 was $0.35, compared to $0.31 for the fourth quarter of 2022 and $0.37 for the third quarter of 2023.
+Financial Highlights: Full Year 2023
+Revenue for the year ended December 31, 2023 increased to $1.63 billion compared to $1.41 billion for the year ended
+December 31, 2022, an increase of 15.5% on a reported basis and 15.6% on a constant currency basis.
+
+Operating income margin for the year ended December 31, 2023 was 14.6%, compared to 13.6% for the year ended
+December 31, 2022. Adjusted operating income margin for the year ended December 31, 2023 was 19.3%, compared to
+18.3% for the year ended December 31, 2022.
+Diluted earnings per share for the year ended December 31, 2023 was $1.10, compared to $0.85 for the year ended
+December 31, 2022. Adjusted diluted earnings per share for the year ended December 31, 2023 was $1.43, compared to
+$1.20 for the year ended December 31, 2022.
+Business Highlights: Fourth Quarter 2023
+Won 17 new clients in the fourth quarter of 2023, with 9 clients in the digital operations and solutions business and 8
+clients in analytics. For the year, we won 63 new clients, with 35 of those clients in digital operations and solutions
+business and 28 in analytics.
+Formed a new collaboration with AWS for developing and delivering generative AI solutions through a cloud-native AI
+workbench, including the use of Amazon Bedrock for large language models.
+Established a new collaboration with Microsoft to co-develop and accelerate generative AI solutions for businesses to help
+clients drive growth, personalize customer experiences, unlock valuable insights and develop new offerings.
+Named in Newsweek’s 2024 America’s Most Responsible Companies list for fourth consecutive year.
+2024 Guidance
+Based on current visibility, and a U.S. dollar to Indian rupee exchange rate of 83.0, U.K. pound sterling to U.S. dollar exchange rate of 1.27, U.S. dollar
+to the Philippine peso exchange rate of 56.0 and all other currencies at current exchange rates, we are providing the following guidance for the full
+year 2024:
+Revenue of $1.78 billion to $1.82 billion, representing an increase of 9% to 12% on a reported basis, and constant
+currency basis, from 2023; and
+Adjusted diluted earnings per share of $1.56 to $1.62, representing an increase of 9% to 13% from 2023.
+Conference Call
+
+ExlService Holdings, Inc. will host a conference call on Thursday, Feb. 29, 2024, at 10:00 A.M. ET to discuss the Company’s fourth quarter and
+year-end operating and financial results. The conference call will be available live via the internet by accessing the investor relations section of EXL’s
+website at ir.exlservice.com, where an accompanying investor-friendly spreadsheet of historical operating and financial data can also be accessed.
+Please access the website at least fifteen minutes prior to the call to register, download and install any necessary audio software.
+Please note that there is a new system to access the live call-in order to ask questions. To join the live call, please register here. A dial-in and unique
+PIN will be provided to join the call. For those who cannot access the live broadcast, a replay will be available on the EXL website ir.exlservice.com for
+a period of twelve months.
+
+In addition to its reported operating results in accordance with U.S. generally accepted accounting principles (GAAP), EXL has included in this release
+certain financial measures that are considered non-GAAP financial measures, including the following:
+(i) Adjusted operating income and adjusted operating income margin;
+(ii) Adjusted EBITDA and adjusted EBITDA margin;
+(iii) Adjusted net income and adjusted diluted earnings per share; and
+(iv) Revenue growth on constant currency basis.
+These non-GAAP financial measures are not based on any comprehensive set of accounting rules or principles, should not be considered a substitute
+for, or superior to, financial measures calculated in accordance with GAAP, and may be different from non-GAAP financial measures used by other
+companies. Accordingly, the financial results calculated in accordance with GAAP and reconciliations from those financial statements should be
+carefully evaluated. EXL believes that providing these non-GAAP financial measures may help investors better understand EXL’s underlying financial
+performance. Management also believes that these non-GAAP financial measures, when read in conjunction with EXL’s reported results, can provide
+useful supplemental information for investors analyzing period-to-period comparisons of the Company’s results and comparisons of the Company’s
+results with the results of other companies. Additionally, management considers some of these non-GAAP financial measures to determine variable
+compensation of its employees. The Company believes that it is unreasonably difficult to provide its earnings per share financial guidance in
+accordance with GAAP, or a qualitative reconciliation thereof, for a number of reasons, including, without limitation, the Company’s inability to predict
+its future stock-based compensation expense under ASC Topic 718, the amortization of intangibles associated with future acquisitions and the
+currency fluctuations and associated tax effects. As such, the Company presents guidance with respect to adjusted diluted earnings per share. The
+Company also incurs significant non-cash charges for depreciation that may not be indicative of the Company’s ability to generate cash flow.
+EXL non-GAAP financial measures exclude, where applicable, stock-based compensation expense, amortization of acquisition-related intangible
+assets, provision for litigation matters, effects of termination of leases, certain defined social security contributions, allowance for certain material
+expected credit losses, other acquisition-related expenses or benefits and effect of any non-recurring tax adjustments. Acquisition-related expenses or
+benefits include, changes in the fair value of contingent consideration, external deal costs, integration expenses, direct and incremental travel costs
+and non-recurring benefits or losses. Our adjusted net income and adjusted diluted EPS also excludes the effects of income tax on the above pre-tax
+items, as applicable. The effects of income tax of each item is calculated by applying the statutory rate of the local tax regulations in the jurisdiction in
+which the item was incurred.
+A limitation of using non-GAAP financial measures versus financial measures calculated in accordance with GAAP is that non-GAAP financial
+measures do not reflect all of the amounts associated with our operating results as determined in accordance with GAAP and exclude costs that are
+recurring, namely stock-based compensation and amortization of acquisition-related intangible assets. EXL compensates for these limitations by
+providing specific information regarding the GAAP amounts excluded from non-GAAP financial measures to allow investors to evaluate such
+non-GAAP financial measures.
+EXL’s primary exchange rate exposure is with the Indian rupee, the U.K. pound sterling and the Philippine peso. The average exchange rate of the
+U.S. dollar against the Indian rupee increased from 82.31 during the quarter ended December 31, 2022 to 83.28 during the quarter ended December
+31, 2023, representing a depreciation of 1.2% against the U.S. dollar. The average exchange rate of the U.S. dollar against the Philippine peso
+decreased from 56.76 during the quarter ended December 31, 2022 to 55.86 during the quarter ended December 31, 2023, representing an
+appreciation of 1.6% against the U.S. dollar. The average exchange rate of the U.K. pound sterling against the U.S. dollar increased from 1.19 during
+the quarter ended December 31, 2022 to 1.25 during the quarter ended December 31, 2023, representing an appreciation of 5.4% against the U.S.
+dollar.
+
+
+EXL Annual Report 2022
+EXL Reports 2022 Fourth Quarter and Year-End Results; Issues 2023 Guidance
+February 23, 2023
+2022 Fourth Quarter Revenue of $374.7 Million, up 26.8% year-over-year
+Q4 Diluted EPS (GAAP) of $0.94, up 13.3% from $0.83 in Q4 of 2021
+Q4 Adjusted Diluted EPS (Non-GAAP) (1) of $1.56, up 28.9% from $1.21 in Q4 of 2021
+2022 Revenue of $1.41 Billion, up 25.8% year-over-year
+2022 Diluted EPS (GAAP) of $4.23, up 26.3% from $3.35 in 2021
+2022 Adjusted Diluted EPS (Non-GAAP) (1) of $6.02, up 24.6% from $4.83 in 2021
+NEW YORK, Feb. 23, 2023 (GLOBE NEWSWIRE) -- ExlService Holdings, Inc. (NASDAQ: EXLS), a leading data analytics and digital operations and
+solutions company, today announced its financial results for the quarter and full year ended December 31, 2022.
+Rohit Kapoor, Vice Chairman and Chief Executive Officer, said, “We ended the year strong with fourth quarter revenue and EPS growth of over 25%.
+Our data-led approach has differentiated us within our industry and expanded our total addressable market. Our proprietary data assets, digital
+solutions and domain and data expertise, combined with our best-in-class talent, creates value for our clients. This is reflected in the continued growth
+of our analytics business and the acceleration of growth in our digital operations and solutions business. As we look to 2023, EXL is well positioned
+with a strong pipeline, differentiated solutions and a growing base of client relationships across industry verticals.”
+Maurizio Nicolelli, Chief Financial Officer, said, “We ended 2022 with strong momentum in our business, a healthy balance sheet and solid free cash
+flow. We are mindful of the potential for recessionary headwinds later in the year, but continue to believe we will deliver double-digit revenue and EPS
+growth in 2023. Our guidance for 2023 revenue is in the range of $1.56 billion to $1.60 billion, representing an 11% to 13% increase year-over-year on
+a reported basis and 11% to 14% on a constant currency basis. We expect adjusted diluted EPS to be in the range of $6.60 to $6.80, representing a
+10% to 13% increase over 2022."
+
+Reconciliations of adjusted (non-GAAP) financial measures to the most directly comparable GAAP measures, where applicable, are included at the end of this
+release under “Reconciliation of Adjusted Financial Measures to GAAP Measures.” These non-GAAP measures, including adjusted diluted EPS and constant
+currency measures, are not measures of financial performance prepared in accordance with GAAP.
+1. 
+Financial Highlights: Fourth Quarter 2022
+Revenue for the quarter ended December 31, 2022 increased to $374.7 million compared to $295.5 million for the fourth
+quarter of 2021, an increase of 26.8% on a reported basis and 28.6% on a constant currency basis. Revenue increased by
+3.7% sequentially on reported basis and constant currency basis, from the third quarter of 2022.
+
+Operating income margin for the quarter ended December 31, 2022 was 13.6%, compared to 12.2% for the fourth quarter
+of 2021 and 13.9% for the third quarter of 2022. Adjusted operating income margin for the quarter ended December 31,
+2022 was 18.0% compared to 17.0% for the fourth quarter of 2021 and 18.5% for the third quarter of 2022.
+Diluted earnings per share for the quarter ended December 31, 2022 was $0.94 compared to $0.83 for the fourth quarter
+of 2021 and $1.16 for the third quarter of 2022. Adjusted diluted earnings per share for the quarter ended December 31,
+2022 was $1.56 compared to $1.21 for the fourth quarter of 2021 and $1.54 for the third quarter of 2022.
+
+Operating income margin for the year ended December 31, 2022 was 13.6% compared to 13.9% for the year ended
+December 31, 2021. Adjusted operating income margin for the year ended December 31, 2022 was 18.3% compared to
+18.6% for the year ended December 31, 2021.
+Diluted earnings per share for the year ended December 31, 2022 was $4.23 compared to $3.35 for the year ended
+December 31, 2021. Adjusted diluted earnings per share for the year ended December 31, 2022 was $6.02 compared to
+$4.83 for the year ended December 31, 2021.
+Business Highlights: Fourth Quarter 2022
+Won 19 new clients in the fourth quarter of 2022, with eight in our digital operations and solutions business and 11 in
+analytics. For the year, we won 59 new clients, with 31 in our digital operations and solutions business and 28 in analytics.
+Recognized as a Leader in all four categories in the 2022 ISG Provider Lens™ Digital Finance & Accounting Outsourcing
+Services.
+Announced alliance with EY to support digital transformation initiatives in insurance, financial services and health care
+sectors.
+Recognized as ‘Luminary’ in Celent New Business and Underwriting Systems: Global Life Insurance Edition report.
+Named to Newsweek’s 2022 list of America’s Most Responsible Companies.
+2023 Guidance
+Based on current visibility, and a U.S. dollar to Indian rupee exchange rate of 82.5, U.K. pound sterling to U.S. dollar exchange rate of 1.21, U.S. dollar
+to the Philippine peso exchange rate of 55.0 and all other currencies at current exchange rates, we are providing the following guidance for the full
+year 2023:
+Revenue of $1.56 billion to $1.60 billion, representing an increase of 11% to 13% on a reported basis, and 11% to 14% on
+a constant currency basis, from 2022.
+Adjusted diluted earnings per share of $6.60 to $6.80, representing an increase of 10% to 13% from 2022.
+Conference Call
+ExlService Holdings, Inc. will host a conference call on Thursday, February 23, 2023 at 10:00 A.M. ET to discuss the Company’s quarterly operating
+and financial results. The conference call will be available live via the internet by accessing the investor relations section of EXL’s website at
+ir.exlservice.com, where an accompanying investor-friendly spreadsheet of historical operating and financial data can also be accessed. Please
+access the website at least fifteen minutes prior to the call to register, download and install any necessary audio software.
+Please note that there is a new system to access the live call-in order to ask questions. To join the live call, please register here. A dial-in and unique
+PIN will be provided to join the call. For those who cannot access the live broadcast, a replay will be available on the EXL website ir.exlservice.com for
+a period of twelve months.
+About ExlService Holdings, Inc.
+
+By bringing together deep domain expertise with robust data, powerful analytics, cloud, artificial intelligence (“AI”) and
+machine learning (“ML”), we create agile, scalable solutions and execute complex operations for the world’s leading corporations in industries
+including insurance, healthcare, banking and financial services, media, and retail, among others. Focused on driving faster decision-making and
+transforming operating models, EXL was founded on the core values of innovation, collaboration, excellence, integrity and respect. Headquartered in
+New York, our team is over 45,400 strong, with more than 50 offices spanning six continents. For more information, visit www.exlservice.com.
+Cautionary Statement Regarding Forward-Looking Statements This press release contains forward-looking statements within the meaning of the
+United States Private Securities Litigation Reform Act of 1995. You should not place undue reliance on those statements because they are subject to
+numerous uncertainties and factors relating to EXL's operations and business environment, all of which are difficult to predict and many of which are
+beyond EXL’s control. Forward-looking statements include information concerning EXL’s possible or assumed future results of operations, including
+descriptions of its business strategy. These statements may include words such as “may,” “will,” “should,” “believe,” “expect,” “anticipate,” “intend,”
+“plan,” “estimate” or similar expressions. These statements are based on assumptions that we have made in light of management's experience in the
+industry as well as its perceptions of historical trends, current conditions, expected future developments and other factors it believes are appropriate
+under the circumstances. You should understand that these statements are not guarantees of performance or results. They involve known and
+unknown risks, uncertainties and assumptions. Although EXL believes that these forward-looking statements are based on reasonable assumptions,
+you should be aware that many factors could affect EXL’s actual financial results or results of operations and could cause actual results to differ
+materially from those in the forward-looking statements. These factors, which include our ability to maintain and grow client demand, our ability to hire
+and retain sufficiently trained employees, and our ability to accurately estimate and/or manage costs, rising interest rates, rising inflation and
+recessionary economic trends, are discussed in more detail in EXL’s filings with the Securities and Exchange Commission, including EXL’s Annual
+Report on Form 10-K. You should keep in mind that any forward-looking statement made herein, or elsewhere, speaks only as of the date on which it
+is made. New risks and uncertainties come up from time to time, and it is impossible to predict these events or how they may affect EXL. EXL has no
+obligation to update any forward-looking statements after the date hereof, except as required by federal securities laws.
+
+In addition to its reported operating results in accordance with U.S. generally accepted accounting principles (GAAP), EXL has included in this release
+certain financial measures that are considered non-GAAP financial measures, including the following:
+(i) Adjusted operating income and adjusted operating income margin;
+(ii) Adjusted EBITDA and adjusted EBITDA margin;
+(iii) Adjusted net income and adjusted diluted earnings per share; and
+(iv) Revenue growth on an organic constant currency basis.
+These non-GAAP financial measures are not based on any comprehensive set of accounting rules or principles, should not be considered a substitute
+for, or superior to, financial measures calculated in accordance with GAAP, and may be different from non-GAAP financial measures used by other
+companies. Accordingly, the financial results calculated in accordance with GAAP and reconciliations from those financial statements should be
+carefully evaluated. EXL believes that providing these non-GAAP financial measures may help investors better understand EXL’s underlying financial
+performance. Management also believes that these non-GAAP financial measures, when read in conjunction with EXL’s reported results, can provide
+useful supplemental information for investors analyzing period-to-period comparisons of the Company’s results and comparisons of the Company’s
+results with the results of other companies. Additionally, management considers some of these non-GAAP financial measures to determine variable
+compensation of its employees. The Company believes that it is unreasonably difficult to provide its earnings per share financial guidance in
+accordance with GAAP, or a qualitative reconciliation thereof, for a number of reasons, including, without limitation, the Company’s inability to predict
+its future stock-based compensation expense under ASC Topic 718, the amortization of intangibles associated with further acquisitions and the
+currency fluctuations and associated tax impacts. As such, the Company presents guidance with respect to adjusted diluted earnings per share. The
+Company also incurs significant non-cash charges for depreciation that may not be indicative of the Company’s ability to generate cash flow.
+EXL non-GAAP financial measures exclude, where applicable, stock-based compensation expense, amortization of acquisition-related intangible
+assets, provision for litigation settlement, non-cash interest expense on convertible senior notes, impairment charges on acquired long-lived and
+intangible assets including goodwill, gains or losses on settlement of convertible notes, restructuring charges, effects of termination of leases, certain
+defined social security contributions, other acquisition-related expenses or benefits and effect of any non-recurring tax adjustments. Acquisitionrelated expenses or benefits include, changes in the fair value of contingent consideration, external deal costs, integration expenses, direct and
+incremental travel costs and non-recurring benefits or losses. Our adjusted net income and adjusted diluted EPS also excludes the effects of income
+tax on the above pre-tax items, as applicable. The effects of income tax of each item is calculated by applying the statutory rate of the local tax
+regulations in the jurisdiction in which the item was incurred.
+A limitation of using non-GAAP financial measures versus financial measures calculated in accordance with GAAP is that non-GAAP financial
+measures do not reflect all of the amounts associated with our operating results as determined in accordance with GAAP and exclude costs that are
+recurring, namely stock-based compensation and amortization of acquisition-related intangible assets. EXL compensates for these limitations by
+providing specific information regarding the GAAP amounts excluded from non-GAAP financial measures to allow investors to evaluate such
+non-GAAP financial measures.
+The information provided on an organic constant currency basis reflects a comparison of current period results translated at the prior period currency
+rates and exclude the impact from an acquisition for a twelve-month period from the date of the acquisition. This information is provided because EXL
+believes that it provides useful comparative incremental information to investors regarding EXL’s true operating performance. EXL’s primary exchange
+rate exposure is with the Indian rupee, the U.K. pound sterling and the Philippine peso. The average exchange rate of the U.S. dollar against the
+Indian rupee increased from 74.79 during the quarter ended December 31, 2021 to 82.31 during the quarter ended December 31, 2022, representing
+a depreciation of 10.1% against the U.S. dollar. The average exchange rate of the U.S. dollar against the Philippine peso increased from 50.60 during
+the quarter ended December 31, 2021 to 56.76 during the quarter ended December 31, 2022, representing a depreciation of 12.2% against the U.S.
+dollar. The average exchange rate of the U.K. pound sterling against the U.S. dollar decreased from 1.35 during the quarter ended December 31, 2021
+to 1.19 during the quarter ended December 31, 2022, representing a depreciation of 12.0% against the U.S. dollar.
+
+
+
+
+
+
+
+
+
+IBM
+
+
+Second Quarter Results 2024
+"We had a strong second quarter, exceeding our expectations, driven by growth in both revenue and free cash flow. We continue to see that clients turn to IBM for our technology and our expertise in enterprise AI, and our book of business for generative AI has grown to more than two billion dollars since the launch of watsonx one year ago," said Arvind Krishna, IBM chairman and chief executive officer. "Given our first-half results, we are raising our full-year view of free cash flow, which we now expect to be more than $12 billion." 
+
+Second-Quarter Highlights
+Revenue
+- Revenue of $15.8 billion, up 2 percent, up 4 percent at constant currency
+- Software revenue up 7 percent, up 8 percent at constant currency
+- Consulting revenue down 1 percent, up 2 percent at constant currency
+- Infrastructure revenue up 1 percent, up 3 percent at constant currency
+Profit Margin
+- Gross Profit Margin: GAAP: 56.8 percent, up 180 basis points; Operating (Non-GAAP): 57.8 percent, up 190 basis points
+- Pre-Tax Income Margin: GAAP: 14.1 percent, up 110 basis points; Operating (Non-GAAP): 17.7 percent, up 220 basis points
+Cash Flow
+- Year to date, net cash from operating activities of $6.2 billion, down $0.2 billion; free cash flow of $4.5 billion, up $1.1 billion
+- Over the last twelve months, net cash from operating activities of $13.8 billion; free cash flow of $12.3 billion
+
+"In the quarter, we accelerated our revenue growth as we continue to execute well on our strategy. Our business fundamentals, operating leverage, product mix and productivity initiatives all contributed to significant margin expansion and increased profit and free cash flow," said James Kavanaugh, IBM senior vice president and chief financial officer. "Our strong cash generation enables us to continue investing in innovation and expertise across the portfolio, while returning value to shareholders through dividends."
+
+Segment Results for Second Quarter
+
+Software — revenues of $6.7 billion, up 7.1 percent, up 8.4 percent at constant currency:
+- Hybrid Platform & Solutions up 5 percent, up 6 percent at constant currency:
+      -- Red Hat up 7 percent, up 8 percent at constant currency
+      -- Automation up 15 percent, up 16 percent at constant currency
+      -- Data & AI down 3 percent, down 2 percent at constant currency
+      -- Security up 2 percent, up 3 percent at constant currency
+- Transaction Processing up 11 percent, up 13 percent at constant currency
+ 
+Consulting — revenues of $5.2 billion, down 0.9 percent, up 1.8 percent at constant currency:
+- Business Transformation up 3 percent, up 6 percent at constant currency
+- Technology Consulting down 3 percent, up 1 percent at constant currency
+- Application Operations down 4 percent, down 2 percent at constant currency
+ 
+Infrastructure — revenues of $3.6 billion, up 0.7 percent, up 2.7 percent at constant currency:
+- Hybrid Infrastructure up 4 percent, up 6 percent at constant currency
+      -- IBM Z up 6 percent, up 8 percent at constant currency
+      -- Distributed Infrastructure up 3 percent, up 5 percent at constant currency
+- Infrastructure Support down 5 percent, down 3 percent at constant currency
+ 
+Financing — revenues of $0.2 billion, down 8.3 percent, down 6.6 percent at constant currency
+Cash Flow and Balance Sheet
+
+In the second quarter, the company generated net cash from operating activities of $2.1 billion, down $0.6 billion year to year. IBM's free cash flow was $2.6 billion, up $0.5 billion year to year. The company returned $1.5 billion to shareholders in dividends in the second quarter.
+
+For the first six months of the year, the company generated net cash from operating activities of $6.2 billion, down $0.2 billion year to year. IBM's free cash flow was $4.5 billion, up $1.1 billion year to year. Over the last twelve months, the company generated net cash from operating activities of $13.8 billion and free cash flow of $12.3 billion.
+
+IBM ended the second quarter with $16.0 billion of cash, restricted cash and marketable securities, up $2.5 billion from year-end 2023. Debt, including IBM Financing debt of $11.1 billion, totaled $56.5 billion, flat year to date.
+
+Full-Year 2024 Expectations
+
+Revenue: The company continues to expect constant currency revenue growth consistent with its mid-single digit model. At current foreign exchange rates, currency is expected to be about a one to two-point headwind to revenue growth
+Free cash flow: The company now expects more than $12 billion in free cash flow
+Forward-Looking and Cautionary Statements
+
+Except for the historical information and discussions contained herein, statements contained in this release may constitute forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements are based on the company's current assumptions regarding future business and financial performance. These statements involve a number of risks, uncertainties and other factors that could cause actual results to differ materially, including, but not limited to, the following: a downturn in economic environment and client spending budgets; a failure of the company's innovation initiatives; damage to the company's reputation; risks from investing in growth opportunities; failure of the company's intellectual property portfolio to prevent competitive offerings and the failure of the company to obtain necessary licenses; the company's ability to successfully manage acquisitions, alliances and dispositions, including integration challenges, failure to achieve objectives, the assumption of liabilities and higher debt levels; fluctuations in financial results; impact of local legal, economic, political, health and other conditions; the company's failure to meet growth and productivity objectives; ineffective internal controls; the company's use of accounting estimates; impairment of the company's goodwill or amortizable intangible assets; the company's ability to attract and retain key employees and its reliance on critical skills; impacts of relationships with critical suppliers; product quality issues; impacts of business with government clients; reliance on third party distribution channels and ecosystems; cybersecurity and data privacy considerations; adverse effects related to climate change and environmental matters; tax matters; legal proceedings and investigatory risks; the company's pension plans; currency fluctuations and customer financing risks; impact of changes in market liquidity conditions and customer credit risk on receivables; potential failure of the separation of Kyndryl Holdings, Inc. to qualify for tax-free treatment; risk factors related to IBM securities; and other risks, uncertainties and factors discussed in the company's Form 10-Qs, Form 10-K and in the company's other filings with the U.S. Securities and Exchange Commission or in materials incorporated therein by reference.
+
+Statements in this communication regarding the strategic acquisition that are forward-looking may include projections as to closing date for the transaction, the extent of, and the time necessary to obtain, the regulatory approvals required for the transaction, the anticipated benefits of the transaction, the impact of the transaction on IBM's business, the synergies from the transaction, and the combined company's future operating results.
+
+Any forward-looking statement in this release speaks only as of the date on which it is made. Except as required by law, the company assumes no obligation to update or revise any forward-looking statements.
+
+Presentation of Information in this Press Release
+
+In an effort to provide investors with additional information regarding the company's results as determined by generally accepted accounting principles (GAAP), the company has also disclosed in this press release the following non-GAAP information, which management believes provides useful information to investors:
+
+IBM results —
+
+adjusting for currency (i.e., at constant currency);
+presenting operating (non-GAAP) earnings per share amounts and related income statement items;
+free cash flow;
+net cash from operating activities excluding IBM Financing receivables;
+adjusted EBITDA.
+The rationale for management's use of these non-GAAP measures is included in Exhibit 99.2 in the Form 8-K that includes this press release and is being submitted today to the SEC.
+
+For generative AI, book of business includes Software transactional revenue, SaaS Annual Contract Value and Consulting signings.
+
+First Quarter Results 2024
+"We began the year with solid revenue and free cash flow growth, reflecting the strength of our hybrid cloud and AI strategy. We continue to capitalize on the excitement and demand for enterprise AI from our clients. Our book of business for watsonx and generative AI again showed strong momentum, growing quarter over quarter, and has now eclipsed one billion dollars since we launched watsonx in mid-2023. As a result, for the full year, we continue to expect revenue performance in line with our mid-single digit model and about $12 billion in free cash flow," said Arvind Krishna, IBM chairman and chief executive officer. "To strengthen our position in today's hybrid cloud and AI-driven technology landscape, we also announced our intent to acquire HashiCorp. IBM's and HashiCorp's combined portfolios will help clients manage growing application and infrastructure complexity and create a comprehensive hybrid cloud platform designed for the AI era." 
+
+Strategic Acquisition
+IBM today announced its intent to acquire HashiCorp, Inc. for $35 per share in cash, representing an enterprise value of $6.4 billion. The acquisition will create a comprehensive end-to-end hybrid cloud platform for the AI era. The transaction is expected to close by the end of 2024, subject to approval by HashiCorp shareholders, regulatory approvals and other customary closing conditions.
+
+First-Quarter Highlights
+
+Revenue
+- Revenue of $14.5 billion, up 1 percent, up 3 percent at constant currency
+- Software revenue up 5 percent, up 6 percent at constant currency
+- Consulting revenue flat, up 2 percent at constant currency
+- Infrastructure revenue down 1 percent, flat at constant currency
+Profit Margin
+- Gross Profit Margin: GAAP: 53.5 percent, up 80 basis points; Operating (Non-GAAP): 54.7 percent, up 100 basis points
+- Pre-Tax Income Margin: GAAP: 7.4 percent, flat; Operating (Non-GAAP): 11.5 percent, up 130 basis points
+Cash Flow
+- Net cash from operating activities of $4.2 billion, up $0.4 billion; free cash flow of $1.9 billion, up $0.6 billion
+- Over the last twelve months, net cash from operating activities of $14.3 billion; free cash flow of $11.8 billion
+
+"In the quarter we continued to focus on the fundamentals of our business, growing revenue, expanding operating margins, improving profit performance and increasing productivity and operating leverage," said James Kavanaugh, IBM senior vice president and chief financial officer. "These fundamentals, combined with our strong cash generation, position us to invest both organically and through strategic acquisitions like today's announcement with HashiCorp. At the same time, we continue to return value to shareholders through our dividend."
+
+Segment Results for First Quarter
+
+Software — revenues of $5.9 billion, up 5.5 percent, up 5.9 percent at constant currency:
+- Hybrid Platform & Solutions up 6 percent, up 7 percent at constant currency:
+   -- Red Hat up 9 percent
+   -- Automation up 13 percent
+   -- Data & AI up 1 percent
+   -- Security down 3 percent
+- Transaction Processing up 3 percent, up 4 percent at constant currency
+Consulting — revenues of $5.2 billion, down 0.2 percent, up 1.7 percent at constant currency:
+- Business Transformation up 1 percent, up 3 percent at constant currency
+- Technology Consulting up 1 percent, up 3 percent at constant currency
+- Application Operations down 3 percent, down 1 percent at constant currency
+Infrastructure — revenues of $3.1 billion, down 0.7 percent, up 0.2 percent at constant currency:
+- Hybrid Infrastructure up 5 percent, up 6 percent at constant currency
+   -- IBM Z up 4 percent, up 5 percent at constant currency
+   -- Distributed Infrastructure up 6 percent, up 7 percent at constant currency
+- Infrastructure Support down 8 percent, down 7 percent at constant currency
+Financing — revenues of $0.2 billion, down 1.6 percent, down 1.5 percent at constant currency
+Cash Flow and Balance Sheet
+In the first quarter, the company generated net cash from operating activities of $4.2 billion, up $0.4 billion year to year. Net cash from operating activities excluding IBM Financing receivables was $2.3 billion. IBM's free cash flow was $1.9 billion, up $0.6 billion year to year. Over the last twelve months, the company generated net cash from operating activities of $14.3 billion and free cash flow of $11.8 billion. The company returned $1.5 billion to shareholders in dividends in the first quarter.
+
+IBM ended the first quarter with $19.3 billion of cash and marketable securities, up $5.8 billion from year-end 2023. Debt, including IBM Financing debt of $9.9 billion, totaled $59.5 billion, up $3.0 billion since the end of 2023.
+
+Full-Year 2024 Expectations
+
+Revenue: The company continues to expect constant currency revenue growth consistent with its mid-single digit model. At current foreign exchange rates, currency is expected to be about a one-and-a-half to two-point headwind to revenue growth
+Free cash flow: The company continues to expect about $12 billion in free cash flow
+Forward-Looking and Cautionary Statements
+Except for the historical information and discussions contained herein, statements contained in this release may constitute forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements are based on the company's current assumptions regarding future business and financial performance. These statements involve a number of risks, uncertainties and other factors that could cause actual results to differ materially, including, but not limited to, the following: a downturn in economic environment and client spending budgets; a failure of the company's innovation initiatives; damage to the company's reputation; risks from investing in growth opportunities; failure of the company's intellectual property portfolio to prevent competitive offerings and the failure of the company to obtain necessary licenses; the company's ability to successfully manage acquisitions, alliances and dispositions, including integration challenges, failure to achieve objectives, the assumption of liabilities and higher debt levels; fluctuations in financial results; impact of local legal, economic, political, health and other conditions; the company's failure to meet growth and productivity objectives; ineffective internal controls; the company's use of accounting estimates; impairment of the company's goodwill or amortizable intangible assets; the company's ability to attract and retain key employees and its reliance on critical skills; impacts of relationships with critical suppliers; product quality issues; impacts of business with government clients; reliance on third party distribution channels and ecosystems; cybersecurity and data privacy considerations; adverse effects related to climate change and environmental matters; tax matters; legal proceedings and investigatory risks; the company's pension plans; currency fluctuations and customer financing risks; impact of changes in market liquidity conditions and customer credit risk on receivables; potential failure of the separation of Kyndryl Holdings, Inc. to qualify for tax-free treatment; risk factors related to IBM securities; and other risks, uncertainties and factors discussed in the company's Form 10-Qs, Form 10-K and in the company's other filings with the U.S. Securities and Exchange Commission or in materials incorporated therein by reference.
+
+Statements in this communication regarding the strategic acquisition that are forward-looking may include projections as to closing date for the transaction, the extent of, and the time necessary to obtain, the regulatory approvals required for the transaction, the anticipated benefits of the transaction, the impact of the transaction on IBM's business, the synergies from the transaction, and the combined company's future operating results.
+
+Any forward-looking statement in this release speaks only as of the date on which it is made. Except as required by law, the company assumes no obligation to update or revise any forward-looking statements.
+
+Presentation of Information in this Press Release
+In an effort to provide investors with additional information regarding the company's results as determined by generally accepted accounting principles (GAAP), the company has also disclosed in this press release the following non-GAAP information, which management believes provides useful information to investors:
+
+IBM results —
+
+adjusting for currency (i.e., at constant currency);
+presenting operating (non-GAAP) earnings per share amounts and related income statement items;
+free cash flow;
+net cash from operating activities excluding IBM Financing receivables;
+adjusted EBITDA.
+
+
+
+Annual report 2023
+In 2023, we made significant progress in our journey to become a more innovative and focused company, built around the two most transformational technologies of our time: hybrid cloud and AI. We executed against a proven strategy, refined our portfolio, expanded our ecosystem of partners, and enhanced productivity throughout IBM.
+
+We also continued to address the evolving needs of our clients. As AI becomes a top priority, our clients are using watsonx – IBM’s flagship AI and data platform – to help revolutionize customer service, modernize countless lines of code, and automate enterprise tasks to boost employee productivity.
+
+I have never been more confident in IBM’s direction. Today’s IBM is more capable and more productive. We have a strong portfolio and a solid foundation to support sustainable growth. And we are delivering on our promise to be the catalyst that makes the world work better.
+
+2023 performance
+
+For the year, IBM generated $61.9 billion in revenue, up 3% at constant currency, and $11.2 billion of free cash flow, up $1.9 billion year-over-year. We experienced growing demand for our new watsonx platform, marked by thousands of client interactions. This demand contributed to roughly doubling the book of business for watsonx and generative AI from the third to the fourth quarter.
+
+We also expanded profit margins by emphasizing high-value offerings in Consulting and Software and by digitally transforming our processes and scaling AI to enhance productivity within IBM.
+
+Software revenues were up more than 5% at constant currency, as clients turned to our advanced software capabilities across hybrid cloud, data & AI, automation, transactions processing, and security. Our performance was led by Red Hat, and we had solid growth in our recurring revenue base.
+
+Consulting revenues were up 6% at constant currency. We capitalized on the growing need for expertise in digital transformation and AI deployment, leveraging our consulting services in data and technology consulting, cloud modernization, application operations, and business transformation.
+
+Infrastructure revenues decreased by 4% at constant currency, in line with the typical product cycle dynamics in this segment. IBM z16 is significantly outperforming previous cycles, demonstrating the enduring value this platform provides to our clients.
+
+IBM’s revenue growth and cash generation enabled us to make substantial investments in the business and deliver value to our shareholders. In 2023, IBM spent nearly $7 billion on research and development, more than $5 billion to acquire nine companies, and returned more than $6 billion to stockholders through dividends.
+
+AI and hybrid cloud continue to drive value creation, allowing businesses to scale, increase productivity, and seize new market opportunities. IBM has built two powerful platforms to capitalize on the strong demand for both technologies: watsonx for AI, and Red Hat OpenShift for hybrid cloud.
+
+Watsonx is our comprehensive AI and data platform, built to deliver AI models and give our clients the ability to manage the entire lifecycle of AI for business, including the training, tuning, deployment, and ongoing governance of those models. As clients shift from experimenting with generative AI to building and deploying it throughout their enterprises, we are focused on practical and urgent business use cases, including code modernization, customer service, and digital labor.
+
+Financial institutions like Citi, Bradesco, and NatWest are using watsonx to help increase productivity, improve code quality, and enhance customer experiences. Our enterprise-ready AI capabilities are being embedded into SAP solutions. EY launched EY.ai Workforce, a new solution that will use watsonx Orchestrate to automate HR tasks and processes. Service partners such as NTT Data Business Solutions, Wipro, and TCS are launching watsonx Centers of Excellence to scale AI-powered client innovations. And generative AI from watsonx, combined with expertise from Consulting, is enhancing the digital experiences of the U.S. Open, the Masters, Wimbledon, the GRAMMYs, and ESPN Fantasy Football.
+
+IBMers are also embracing watsonx to unleash greater productivity, eliminate complexity, simplify workflows, and automate manual tasks. Examples include processing HR and IT tasks more easily, generating code up to 60% faster, and answering client inquiries more quickly.
+
+Hybrid cloud architectures have seen massive adoption, with nearly 80% of IT decision makers operating hybrid cloud environments. But nearly two thirds of companies report difficulty managing these complex environments, a challenge that will grow as businesses deploy generative AI across multiple clouds. IBM’s industry-leading hybrid cloud platform, based on Red Hat OpenShift, can solve this problem. It helps our clients move from architectures that are hybrid by default to architectures that are hybrid by design. It enables companies to run workloads seamlessly across multiple clouds, both public and private, to simplify operations, unify data and applications, and accelerate new innovations. And it complements our watsonx platform, allowing clients the flexibility to manage multi-model AI across complex, multi-cloud environments.
+
+Virgin Money is harnessing IBM’s hybrid cloud to enable new digital customer experiences and improve their credit card services. Red Hat OpenShift is now the preferred platform provider to Nokia’s core network applications business. And the Boston Red Sox are leveraging our hybrid cloud technologies to improve the club’s operations.
+
+Experts from Consulting provide differentiated value as we establish IBM as a leader in AI for business, just as they did with our hybrid cloud business. Our extensive network of data and AI consultants has already facilitated thousands of hands-on client interactions. IBM combines technology with consulting services to deliver the data architecture, security, and governance our clients need to adopt trusted AI solutions.
+
+IBM consultants are working with Riyadh Air on mission-critical technology and business capabilities to support the path to their first flight. NATO chose IBM to help detect and respond to cyber threats with greater speed. And Diageo partnered with Consulting and SAP on an ambitious five-year business transformation and cloud migration.
+
+Throughout 2023, clients modernized their infrastructure with the z16 platform in alignment with their hybrid cloud and AI strategies. IBM launched a new suite of AI offerings for IBM Z along with new machine learning, intelligence, and operational improvements for z/OS.
+
+In addition, we enhanced IBM’s portfolio with nine acquisitions in 2023, including Apptio, a suite of software to help our clients better understand their technology investment and the business value it delivers.
+
+USD
+11.2B
+FY23 free cash flow, up $1.9 billion year-over-year
+Client engagement and partnership
+
+IBM’s success is directly tied to the success of our clients. Their problems are our problems. And their opportunities are our opportunities. That is why we developed a more collaborative, experience-based approach that allows us to respond effectively to their needs.
+
+The IBM Garage Method, now integrated across our business, combines agile development and design thinking to facilitate co-creation with our clients. Clients have embraced this highly collaborative way of working with IBM, turning ideas into outcomes with thousands of Garage engagements throughout the year.
+
+Our approach to client engagement allows us to meet clients where they are, bringing together whatever technology and expertise are needed across our expanding partner ecosystem. That is why we strengthened our strategic partnerships with key industry players like Adobe, AWS, Microsoft, SAP, Salesforce, Samsung, and others. Strategic partnerships now make up more than 40% of our Consulting revenue and delivered double-digit growth in both signings and revenue for the year.
+
+Research and development
+
+In AI, we demonstrated our ability to quickly transform research into commercial applications. We launched the watsonx AI and data platform, introduced the groundbreaking Granite AI foundational model, and developed new AI-optimized hardware.
+
+We have IBM Quantum System One engagements with several leading organizations, including Cleveland Clinic, the Platform for Digital and Quantum Innovation of Quebec, Rensselaer Polytechnic Institute, and the University of Tokyo. We also unveiled our 133-qubit Quantum Heron processor, which enhanced the performance, efficiency, and scalability of the newly deployed IBM Quantum System Two. And our work on error correction and mitigation is helping to lay the foundation for a new era of quantum utility.
+
+Research also pushed the limits of semiconductor design and packaging, building on recent innovations such as the 2nm node chip, hybrid bonding, and vertical transistors. We are working with Rapidus to propel Japan’s push for leadership in semiconductor research and manufacturing, and we are participating in an initiative with New York State, Micron, and others to jointly invest $10 billion in semiconductor R&D.
+
+2 Platforms
+watsonx for AI and Red Hat OpenShift for hybrid cloud
+The promise of IBM
+
+IBM is in the business of shaping the future for our clients. That future must be built on trust.
+
+IBM is at the forefront of technologies, like AI and quantum computing, which will fundamentally change the way we work and live. We bear significant responsibility to develop those technologies ethically and deploy them with transparency and trust. That is why we built powerful AI governance into our watsonx platform and developed quantum-safe cryptography to secure sensitive data. It is why we advocate for smart AI regulation, including holding those who develop and deploy AI accountable for fraudulent, discriminatory, and harmful activity. And it is why IBM and Meta announced the formation of the AI Alliance, a group of more than 70 organizations dedicated to advancing open, safe, and responsible AI.
+
+We also earn trust by operating with integrity, staying true to our values, and addressing the needs of all stakeholders. We continue to advance our efforts on the environment, ethics, and education. IBM has achieved a 63% reduction in greenhouse gas emissions against base year 2010. We announced a new program to train 1,000 suppliers in technology ethics by 2025. And IBM committed to training two million learners in AI by the end of 2026 to address the technology skills gap.
+
+But IBM’s commitment to trust goes beyond our citizenship, products, and policies. We earn trust by delivering on our promises.
+
+We articulated a clear vision for the future of IBM in the spring of 2020. We promised a more focused company built around two powerful technologies: hybrid cloud and AI. We promised fundamental changes to our go-to-market strategy, putting clients at the center of everything we do and transforming competitors into partners. And we promised operational changes to simplify our internal processes and increase our productivity. As this report details, we are fulfilling those promises.
+
+As we look ahead, we renew our commitment to the journey we began in 2020. We will continue to innovate, to execute with speed and purpose, find more opportunities for operational efficiency, and further enhance our productivity by employing the same technologies we use to drive growth for our clients. And as always, we will be the catalyst that makes the world work better, bringing together our colleagues, clients, and partners with a simple invitation: Let’s Create. This is the promise of IBM.
+
+
+
+
+
+
+
+Genpact 
+
+Genpact Reports Second Quarter 2024 Results
+Total Revenue of $1.18 billion, Up 6% (7% constant currency)1
+Diluted EPS of $0.67, Up 6%; Adjusted Diluted EPS2 of $0.79, Up 10%
+
+NEW YORK, Aug. 8, 2024 /PRNewswire/ -- Genpact Limited (NYSE: G), a global professional services and solutions firm delivering outcomes that shape the future, today announced financial results for the second quarter ended June 30, 2024.
+
+"Following another quarter of better-than-expected results and a robust first half performance, we are raising our earnings expectations for the year," said Balkrishan "BK" Kalra, Genpact's President and CEO. "Our second quarter results are a testament to the team's ability to successfully deliver on our '3+1 Execution Framework'. Looking ahead, we will continue to drive execution and lean into innovation, leveraging gen AI and other advanced technologies to deliver superior value for clients and drive productivity for Genpact."
+
+Key Financial Highlights – Second Quarter 2024
+
+Total revenue was $1.18 billion, up 6% year-over-year on an as reported basis and 7% on a constant currency basis.1
+Data-Tech-AI revenue was $546 million, up 4% year-over-year, both on an as reported and constant currency basis,1 representing 46% of total revenue.3
+Digital Operations revenue was $630 million, up 9% year-over-year, both on an as reported and constant currency basis,1 representing 54% of total revenue.3
+Gross profit was $416 million, up 7% year-over-year, with a corresponding margin of 35.4%.
+Net income was $122 million, up 5% year-over-year, with a corresponding margin of 10.4%.
+Income from operations was $170 million, up 8% year-over-year, with a corresponding margin of 14.5%.
+Adjusted income from operations was $198 million, up 7% year-over-year, with a corresponding margin of 16.9%.4,5
+Diluted earnings per share was $0.67, up 6% year-over-year.
+Adjusted diluted earnings per share2,4 was $0.79, up 10% year-over-year.
+Cash flow from operations was $209 million, up from $171 million in the second quarter of 2023.
+Genpact repurchased approximately 1.9 million common shares during the quarter for total consideration of approximately $63 million at an average price per share of $32.63.
+
+
+1 Revenue growth on a constant currency basis is a non-GAAP measure and is calculated by restating current-period activity using the prior fiscal period's foreign currency exchange rates adjusted for hedging gains/losses in such period.
+
+2 Adjusted diluted earnings per share is a non-GAAP measure. A reconciliation of GAAP diluted earnings per share to adjusted diluted earnings per share is attached to this release.
+
+3 Genpact updated the classification of certain service revenues from Digital Operations to Data-Tech-AI in the quarter ended March 31, 2024 to more accurately reflect the nature of, and mode of delivery for, the services provided, which have evolved over time. As a result, the revenue from Digital Operations and Data-Tech-AI for the second quarter of 2023 originally reported was $605 million and $501 million, respectively, which is $581 million and $525 million, respectively, in accordance with the updated classification.
+
+4 Income from operations and diluted earnings per share in the second quarter of 2023 include a $5 million gain on the termination of a lease which was impaired as part of the restructuring charge taken in the second quarter of 2022. This gain is therefore excluded from adjusted income from operations and adjusted diluted earnings per share in the second quarter of 2023.
+
+5 Adjusted income from operations and adjusted income from operations margin are non-GAAP measures. Reconciliations of each of GAAP income from operations and GAAP net income to adjusted income from operations and GAAP income from operations margin and GAAP net income margin to adjusted income from operations margin are attached to this release.
+
+Outlook
+
+Genpact's outlook for the third quarter of 2024 is as follows:
+
+Total revenue in the range of $1.180 billion to $1.186 billion, representing year-over-year growth of approximately 3.9% to 4.4% as reported, or 4.2% to 4.7% on a constant currency basis.1
+Digital Operations revenue growth of approximately 3.8% year-over-year and Data-Tech-AI revenue growth of approximately 4.6% year-over-year at the midpoint of the range, as reported.
+Digital Operations revenue growth of approximately 4.2% year-over-year and Data-Tech-AI revenue growth of approximately 4.7% year-over-year at the midpoint of the range, on a constant currency basis.1
+Gross margin of approximately 35.4%.
+Adjusted income from operations margin6 of approximately 17.2%.
+Genpact's updated outlook for the full year 2024 is as follows:
+
+Total revenue in the range of $4.656 billion to $4.701 billion, representing year-over-year growth of approximately 4.0% to 5.0% as reported, or 4.2% to 5.2% on a constant currency basis,1 up from the prior guidance of approximately 2.5% to 3.5% as reported.
+Digital Operations revenue growth of approximately 5.2% year-over-year and Data-Tech-AI revenue growth of approximately 3.8% year-over-year at the midpoint of the range, as reported, up from the previous midpoints of 3.6% and 2.3%, respectively.
+Digital Operations revenue growth of approximately 5.5% year-over-year and Data-Tech-AI revenue growth of approximately 3.9% year-over-year at the midpoint of the range, on a constant currency basis,1 up from the previous midpoints of 4.0% and 2.4%, respectively.
+Gross margin of approximately 35.3%.
+Adjusted income from operations margin6 of approximately 17.0%.
+Adjusted diluted EPS7 in the range of $3.14 to $3.18, up from the prior range of $3.01 to $3.04.
+Second Quarter 2024 Earnings Call
+
+Genpact's management will host a conference call on August 8, 2024, at 5:00PM ET to discuss the company's performance for the second quarter ended June 30, 2024. Participants are encouraged to register here to receive a dial-in number and unique PIN for seamless access. It is recommended to join 10 minutes before the call starts, although registration and dial-in will be available at any time.  A live webcast will be available on the Genpact Investor Relations website. For those unable to attend the live call, an archived replay and transcript will be available on the website shortly after the call.
+
+
+6 Adjusted income from operations margin is a non-GAAP measure. A reconciliation of the outlook for each of GAAP income from operations margin and GAAP net income margin to adjusted income from operations margin is attached to this release.
+
+7 Adjusted diluted earnings per share is a non-GAAP measure. A reconciliation of the outlook for GAAP diluted earnings per share to adjusted diluted earnings per share is attached to this release.
+
+About Genpact
+
+Genpact (NYSE: G) is a global professional services and solutions firm delivering outcomes that shape the future. Our 125,000+ people across 30+ countries are driven by our innate curiosity, entrepreneurial agility, and desire to create lasting value for clients. Powered by our purpose – the relentless pursuit of a world that works better for people – we serve and transform leading enterprises, including the Fortune Global 500, with our deep business and industry knowledge, digital operations services, and expertise in data, technology, and AI.
+
+
+
+Genpact Reports First Quarter 2024 Results
+Total Revenue of $1.13 billion, Up 4%1,2,3
+Diluted EPS of $0.64, Up 12%; Adjusted Diluted EPS4 of $0.73, Up 7%
+
+NEW YORK, May 9, 2024 /PRNewswire/ -- Genpact Limited (NYSE: G), a global professional services and solutions firm delivering outcomes that shape the future, today announced financial results for the first quarter ended March 31, 2024.
+
+"Results for the first quarter were above the high end of our guidance range, driven by early signs of improving execution and better than expected performance across both Data-Tech-AI and Digital Operations," said Balkrishan "BK" Kalra, Genpact's President & CEO. "In the first quarter, we established our new '3+1 Execution Framework,' which is focused on building stronger partnerships, delivering more comprehensive Data-Tech-AI solutions, simplifying our sales and go-to-market structures, and enhancing our own operational efficiency through AI-led transformation. This work, while early, is delivering promising results and will be a key ingredient in putting us on the path to reach our full potential." 
+
+Key Financial Highlights – First Quarter 2024
+
+Total revenue was $1.13 billion, up 4% year-over-year, both on an as reported and constant currency basis.1,3  
+Data-Tech-AI revenue was $524 million, up 3% year-over-year, both on an as reported and constant currency basis,1,3 representing 46% of total revenue.5
+Digital Operations revenue was $607 million, up 5% year-over-year (6% on a constant currency basis),1 representing 54% of total revenue.5
+Gross profit was $396 million, up 7% year-over-year, with a corresponding margin of 35.0%.
+Net income was $117 million, up 10% year-over-year, with a corresponding margin of 10.3%.
+Income from operations was $160 million, up 10% year-over-year, with a corresponding margin of 14.1%.
+Adjusted income from operations was $182 million, up 2% year-over-year, with a corresponding margin of 16.1%.6,7
+Diluted earnings per share was $0.64, up 12% year-over-year, and adjusted diluted earnings per share4,6 was $0.73, up 7% year-over-year.
+Cash utilized in operations was $26 million, compared to $34 million utilized in operations in the first quarter of 2023.
+Genpact repurchased approximately 865,000 of its common shares during the quarter for total consideration of approximately $30 million at an average price per share of $34.67.
+
+
+1 Revenue growth on a constant currency basis is a non-GAAP measure and is calculated by restating current-period activity using the prior fiscal period's foreign currency exchange rates adjusted for hedging gains/losses in such period.
+
+2 Both on an as reported and constant currency basis.
+
+3 Total revenue and Data-Tech-AI revenue for the first quarter 2023 includes $0.5 million associated with a business classified as held for sale.
+
+4 Adjusted diluted earnings per share is a non-GAAP measure. A reconciliation of GAAP diluted earnings per share to adjusted diluted earnings per share is attached to this release.
+
+5 Genpact updated the classification of certain service revenues from Digital Operations to Data-Tech-AI in the quarter ended March 31, 2024 to more accurately reflect the nature of, and mode of delivery for, the services provided, which have evolved over time. The tables set forth after the "Outlook" section in this release provide the amount of revenue derived from Digital Operations and Data-Tech-AI, both as originally reported and as updated, for each quarter from the first quarter of 2022 through the first quarter of 2024. The outlook presented in this release for Digital Operations and Data-Tech-AI revenue growth reflect this updated revenue classification.
+
+6 Income from operations and diluted earnings per share for the first quarter of 2023 include a $0.8 million loss incurred on the sale of the business previously designated as held for sale as well as a $1.2 million operating loss from the business previously designated as held for sale. These items were excluded from adjusted income for operations and adjusted diluted earnings per share for the first quarter of 2023.
+
+7 Adjusted income from operations and adjusted income from operations margin are non-GAAP measures. Reconciliations of each of GAAP income from operations and GAAP net income to adjusted income from operations and GAAP income from operations margin and GAAP net income margin to adjusted income from operations margin are attached to this release.
+
+Outlook
+
+Genpact's updated outlook for the full year 2024 is as follows:
+
+Total revenue in the range of $4.59 billion to $4.63 billion, representing year-over-year growth of approximately 2.5% to 3.5% as reported, or 2.7% to 3.7% on a constant currency basis,1 up from the prior guidance of approximately 2.0% to 3.0% as reported.
+Digital Operations revenue growth of approximately 3.6% year-over-year and Data-Tech-AI revenue growth of approximately 2.3% year-over-year at the midpoint of the range, as reported, up from the previous midpoints of 3.1% and 1.7%, respectively, on an updated classification basis.5
+Digital Operations revenue growth of approximately 4.0% year-over-year and Data-Tech-AI revenue growth of approximately 2.4% year-over-year at the midpoint of the range, on a constant currency basis,1 up from the previous midpoints of 3.2% and 1.9%, respectively, on an updated classification basis.5
+Gross margin of approximately 35.3%, up from the prior guidance of approximately 35.0%.
+Adjusted income from operations margin8 of approximately 17.0%.
+Adjusted diluted EPS9 in the range of $3.01 to $3.04, up from the prior range of $3.00 to $3.03.
+Genpact's outlook for the second quarter of 2024 is as follows:
+
+Total revenue in the range of $1.143 billion to $1.148 billion, representing year-over-year growth of approximately 3.4% to 3.8% as reported, or 3.6% to 4.0% on a constant currency basis.1
+Digital Operations revenue growth of approximately 5.4% year-over-year and Data-Tech-AI revenue growth of approximately 1.6% year-over-year at the midpoint of the range, as reported.
+Digital Operations revenue growth of approximately 5.7% year-over-year and Data-Tech-AI revenue growth of approximately 1.6% year-over-year at the midpoint of the range, on a constant currency basis.1
+Gross margin of approximately 34.8%.
+Adjusted income from operations margin8 of approximately 16.5%.
+The outlook presented above reflects the updated classification of Digital Operations and Data-Tech-AI revenue.5 
+
+
+8 Adjusted income from operations margin is a non-GAAP measure. A reconciliation of the outlook for each of GAAP income from operations margin and GAAP net income margin to adjusted income from operations margin is attached to this release.
+
+9 Adjusted diluted earnings per share is a non-GAAP measure. A reconciliation of the outlook for GAAP diluted earnings per share to adjusted diluted earnings per share is attached to this release.
+
+
+Annual Report 2023
+Genpact Reports Full Year and Fourth Quarter 2023 Results
+2023 Total Revenue of $4.48 billion, Up 2% (3% constant currency)1,2
+2023 Digital Operations Services Revenue of $2.48 billion, Up 3% (4% constant currency)1
+2023 Data-Tech-AI Services Revenue of $1.99 billion, Up 2%1,2,3
+2023 Diluted EPS of $3.41, Up 81%; Adjusted Diluted EPS4,5 of $2.98, Up 9%
+Increases Quarterly Dividend by 11%
+
+NEW YORK, Feb. 8, 2024 /PRNewswire/ -- Genpact Limited (NYSE: G), a global professional services firm focused on delivering outcomes that transform businesses, today announced financial results for the fourth quarter and full year ended December 31, 2023.
+
+"We delivered total annual revenue of $4.5 billion in 2023, up 2% year-over-year. While the macroeconomic environment remains challenging, we have identified and begun to implement several key initiatives to improve execution. Looking ahead, 2024 will be a year of strengthening our foundation for future growth," said BK Kalra, President and CEO, Genpact. "As Genpact's new CEO, my top priority is to sharpen our focus and drive increased speed and accountability throughout the organization to reach our full potential."
+
+Key Financial Highlights – Full Year 2023
+
+Total revenue was $4.48 billion, up 2% year-over-year (3% on a constant currency basis).1,2   
+Revenue from Data-Tech-AI services was $1.99 billion, up 2% year-over-year, both on an as reported and constant currency basis,1,2 representing 45% of total revenue.
+Revenue from Digital Operations services was $2.48 billion, up 3% year-over-year (4% on a constant currency basis),1 representing 55% of total revenue.
+Net income was $631 million, up 79% year-over-year, including a non-recurring tax benefit of $170 million related to an intercompany transfer of intellectual property, with a corresponding margin of 14.1%.
+Income from operations was $631 million, up 26% year-over-year, with a corresponding margin of 14.1%.
+Adjusted income from operations was $763 million, up 6% year-over-year, with a corresponding margin of 17.0%.5,6
+Diluted earnings per share was $3.41, up 81% year-over-year, including a non-recurring tax benefit of $170 million related to an intercompany transfer of intellectual property. Adjusted diluted earnings per share4,5 was $2.98, up 9% year-over-year.
+New bookings were approximately $4.9 billion, up 26% year-over-year.7
+Cash generated from operations was $491 million, up 11% year-over-year.
+Genpact repurchased approximately 6 million of its common shares during the year for total consideration of approximately $225 million at an average price per share of $37.48.
+
+
+1 Revenue growth on a constant currency basis is a non-GAAP measure and is calculated by restating current-period activity using the prior fiscal period's foreign currency exchange rates adjusted for hedging gains/losses in such period.
+
+2 Total revenue and revenue from Data-Tech-AI services for the full year 2023 and full year 2022 include $0.5 million and $12 million of revenue, respectively, associated with a business classified as held for sale.
+
+3 Both on an as reported and constant currency basis.
+
+4 Adjusted diluted earnings per share is a non-GAAP measure. A reconciliation of GAAP diluted earnings per share to adjusted diluted earnings per share is attached to this release. During the quarter ended December 31, 2023, we completed an intercompany transfer of certain intellectual property rights from non-US to US wholly-owned subsidiaries, which resulted in a non-recurring tax benefit of $170 million. Net income and diluted earnings per share for the quarter and full year ended December 31, 2023 included this benefit. This benefit is excluded from adjusted diluted earnings per share for the quarter and year ended December 31, 2023.
+
+5 Income from operations and diluted earnings per share for the full year 2022 included a $39 million restructuring charge related to lease impairment charges and employee severance charges, as well as a $33 million impairment charge and a $25 million loss on the sale of a business previously classified as held for sale. These items were excluded from adjusted income from operations and adjusted diluted earnings per share for the full year 2022.
+
+6 Adjusted income from operations and adjusted income from operations margin are non-GAAP measures. Reconciliations of each of GAAP income from operations and GAAP net income to adjusted income from operations and GAAP income from operations margin and GAAP net income margin to adjusted income from operations margin are attached to this release. Adjusted income from operations margin for the full year 2022 and full year 2023 was derived by adjusting total revenue to exclude $12 million and $0.5 million of revenue, respectively, associated with a business previously classified as held for sale.
+
+7 New bookings, an operating measure, represents the total contract value of new contracts and certain renewals, extensions and changes to existing contracts.  Regular renewals of contracts with no change in scope are not counted as new bookings.
+
+Key Financial Highlights – Fourth Quarter 2023
+
+Total revenue was $1.15 billion, up 4% year-over-year, both on an as reported and constant currency basis.1,2   
+Revenue from Data-Tech-AI services was $507 million, up 3% year-over-year (2% on a constant currency basis),1,2 representing 44% of total revenue.
+Revenue from Digital Operations services was $639 million, up 5% year-over-year (4% on a constant currency basis),1 representing 56% of total revenue.
+Net income was $291 million, up 225% year-over-year, including a non-recurring tax benefit of $170 million related to an intercompany transfer of intellectual property, with a corresponding margin of 25.4%.
+Income from operations was $163 million, up 27% year-over-year, with a corresponding margin of 14.2%.
+Adjusted income from operations was $203 million, up 9% year-over-year, with a corresponding margin of 17.7%.8,9
+Diluted earnings per share was $1.59, up 231% year-over-year, including a non-recurring tax benefit of $170 million related to an intercompany transfer of intellectual property. Adjusted diluted earnings per share4 was $0.82, up 17% year-over-year.
+Cash generated from operations was $192 million, compared to $230 million in the fourth quarter of 2022.
+Genpact repurchased approximately 2.2 million of its common shares during the quarter for total consideration of approximately $75 million at an average price per share of $34.27.
+Capital Allocation
+
+Genpact's Board of Directors declared a quarterly cash dividend for the first quarter of 2024 of $0.1525 per common share, an 11% increase, payable on March 26, 2024 to shareholders of record as of the close of business on March 11, 2024. The newly approved quarterly dividend represents a planned annual dividend of $0.61 per common share, increased from $0.55 per common share in 2023. 
+Outlook
+
+Genpact's outlook for the full year 2024 is as follows:
+
+Total revenue in the range of $4.57 billion to $4.61 billion, representing year-over-year growth of approximately 2% to 3% as reported, or 2.1% to 3.1% on a constant currency basis.1
+Digital Operations services revenue growth of approximately 3% year-over-year and Data-Tech-AI services revenue growth of approximately 1.9% year-over-year at the midpoint of the range, as reported.
+Digital Operations services revenue growth of approximately 3.1% year-over-year and Data-Tech-AI services revenue growth of approximately 2.1% year-over-year at the midpoint of the range, on a constant currency basis.1
+Gross margin of approximately 35%.
+Adjusted income from operations margin10  of approximately 17%.
+Adjusted diluted EPS11 in the range of $3.00 to $3.03.
+
+8 Adjusted income from operations and adjusted income from operations margin are non-GAAP measures. Reconciliations of each of GAAP income from operations and GAAP net income to adjusted income from operations and GAAP income from operations margin and GAAP net income margin to adjusted income from operations margin are attached to this release.
+
+9 Adjusted income from operations margin for the fourth quarter of 2022 was derived by adjusting total revenue to exclude $3 million of revenue associated with a business classified as held for sale.
+
+10 Adjusted income from operations margin is a non-GAAP measure. A reconciliation of the outlook for each of GAAP income from operations margin and GAAP net income margin to adjusted income from operations margin is attached to this release.
+
+11 Adjusted diluted earnings per share is a non-GAAP measure. A reconciliation of the outlook for GAAP diluted earnings per share to adjusted diluted earnings per share is attached to this release.
+
+Genpact's outlook for the first quarter of 2024 is as follows:
+
+Total revenue in the range of $1.108 billion to $1.114 billion, representing year-over-year growth of approximately 1.75% to 2.25% as reported, or 1.95% to 2.45% on a constant currency basis.1
+Digital Operations services revenue growth of approximately 2.8% year-over-year and Data-Tech-AI services revenue growth of approximately 1.0% year-over-year at the midpoint of the range, as reported.
+Digital Operations services revenue growth of approximately 3.0% year-over-year and Data-Tech-AI services revenue growth of approximately 1.3% year-over-year at the midpoint of the range, on a constant currency basis.1
+Gross margin of approximately 34.5%.
+Adjusted income from operations margin10 of approximately 16%.
+Our outlook for the first quarter and full year 2024 reflects foreign currency exchange rates as of February 7, 2024.
+
+To supplement the consolidated financial statements presented in accordance with GAAP, this press release includes the following non-GAAP financial measures: 
+
+Adjusted income from operations;
+Adjusted income from operations margin;
+Adjusted diluted earnings per share; and
+Revenue growth on a constant currency basis.
+These non-GAAP financial measures are not based on any comprehensive set of accounting rules or principles and should not be considered a substitute for, or superior to, financial measures calculated in accordance with GAAP, and may be different from non-GAAP financial measures used by other companies. Accordingly, these non-GAAP financial measures, the financial statements prepared in accordance with GAAP and the reconciliations of Genpact's GAAP financial statements to such non-GAAP financial measures should be carefully evaluated.
+
+Given Genpact's acquisitions of varying scale and size, and the difficulty in predicting expenses relating to acquisitions and the amortization of acquired intangibles thereof, since July 2012 Genpact's management has used financial statements that exclude all acquisition-related expenses and amortization of acquired intangibles for its internal management reporting, budgeting and decision-making purposes, including comparing Genpact's operating results to those of its competitors. For the same reasons, since April 2016, Genpact's management has excluded the impairment of acquired intangible assets from the financial statements it uses for internal management purposes. Acquisition-related expenses are excluded in the period in which an acquisition is consummated. Genpact's management also uses financial statements that exclude stock-based compensation expense. Because of varying available valuation methodologies, subjective assumptions and the variety of award types that companies can use when adopting ASC 718 "Compensation-Stock Compensation," Genpact's management believes that providing non-GAAP financial measures that exclude such expenses allows investors to make additional comparisons between Genpact's operating results and those of other companies.
+
+During the second quarter of 2022, Genpact (a) initiated restructuring measures and, as a result, recorded a charge related to i) right-of-use lease assets and other assets related to certain abandoned leased office properties and ii) employee severance costs resulting from a focused reduction in Genpact's workforce and (b) approved a plan to divest a business that was no longer deemed strategic. Given the specialized nature of this business, we anticipated completing a transaction within twelve months after the end of the second quarter of 2022, and therefore, we classified the revenues and expenses related to this business as held for sale with effect from April 1, 2022. During the first quarter of 2023, the Company consummated this transaction and recorded a loss on the sale of the business. During the second quarter of 2023, the Company terminated a lease for office property which was fully impaired as part of a restructuring in the second quarter of 2022, as discussed above, and recorded a gain on such lease termination as restructuring income in the second quarter of 2023. During the fourth quarter of 2023, Genpact completed an intercompany transfer of certain intellectual property rights from non-US to US wholly-owned subsidiaries, which resulted in a non-recurring tax benefit of $170 million. Genpact's management believes that excluding these restructuring charges, the loss on the sale of the business previously classified as held for sale, the revenues and expenses associated with such business, the gain on the lease termination and the non-recurring tax benefit on the transfer of intellectual property rights in calculating its non-GAAP financial measures provides useful information to both management and investors regarding the Company's financial performance and underlying business trends. Additionally, in its calculations of non-GAAP financial measures, Genpact's management has adjusted foreign exchange gains and losses, interest income and expense and income tax expenses from GAAP net income, and other income and expenses, and certain gains from GAAP income from operations, because management believes that the Company's results after taking into account these adjustments more accurately reflect the Company's ongoing operations. In its calculations of adjusted diluted earnings per share, Genpact's management adds back stock-based compensation expense, amortization and impairment of acquired intangible assets, and acquisition-related expenses along with the related tax impact of other adjustments and excludes the non-recurring tax benefit on the transfer of intellectual property rights from GAAP diluted earnings per share. For the purpose of calculating adjusted diluted earnings per share, the combined current and deferred tax effect is determined by multiplying each pre-tax adjustment by the applicable statutory income tax rate. 
+
+Genpact's management provides information about revenues on a constant currency basis so that the revenues may be viewed without the impact of foreign currency exchange rate fluctuations compared to prior fiscal periods, thereby facilitating period-to-period comparisons of the Company's true business performance. Revenue growth on a constant currency basis is calculated by restating current-period activity using the prior fiscal period's foreign currency exchange rates adjusted for hedging gains/losses in such period.
+
+Accordingly, Genpact believes that the presentation of adjusted income from operations, adjusted income from operations margin, adjusted diluted earnings per share and revenue growth on a constant currency basis, when read in conjunction with the Company's reported results, can provide useful supplemental information to investors and management regarding financial and business trends relating to its financial condition and results of operations.
+
+A limitation of using adjusted income from operations and adjusted income from operations margin versus income from operations, income from operations margin, net income and net income margin calculated in accordance with GAAP is that these non-GAAP financial measures exclude certain recurring costs and certain other charges, namely stock-based compensation expense and amortization and impairment of acquired intangible assets. Management compensates for this limitation by providing specific information on the GAAP amounts excluded from adjusted income from operations and adjusted income from operations margin.
+
+
+
+
+Genpact Reports Full Year and Fourth Quarter 2022 Results
+Feb 9, 2023
+PDF Version
+2022 Total Revenue of $4.37 billion, Up 9% (11% constant currency)1, 2
+2022 Diluted EPS of $1.88, Down 2%; Adjusted Diluted EPS3 of $2.74, Up 12%
+Increases Quarterly Dividend by 10% and Share Repurchase Authorization by $500 million
+
+NEW YORK, Feb. 9, 2023 /PRNewswire/ -- Genpact Limited (NYSE: G), a global professional services firm focused on delivering outcomes that transform businesses, today announced financial results for the fourth quarter and full year ended December 31, 2022.
+
+   
+
+"We are pleased with our full year 2022 financial results with revenue growth, adjusted operating income margin and adjusted diluted EPS all coming in at the high-end of our expectations, highlighting the relevance of our Data-Tech-AI services and Digital Operations services for our clients," said "Tiger" Tyagarajan, Genpact's President and CEO. "Transformation is a pervasive theme across most enterprises with many of them calling out 2023 as a year of efficiency. We are therefore seeing a robust pipeline, a continuous flow of Data-Tech-AI, and large transformational deals." 
+
+Key Financial Highlights – Full Year 2022
+
+Total revenue was $4.37 billion, up 9% year-over-year (11% on a constant currency basis).1,2   
+Revenue from Data-Tech-AI services was $1.96 billion, up 16% year-over-year (18% on a constant currency basis),1,2 representing 45% of total revenue.
+Revenue from Digital Operations services was $2.41 billion, up 3% year-over-year (6% on a constant currency basis),1 representing 55% of total revenue.
+Net income was $353 million, down 4% year-over-year, with a corresponding margin of 8%.
+Income from operations was $502 million, down 1% year-over-year, with a corresponding margin of 11.5%.
+Adjusted income from operations was $718 million, up 8% year-over-year, with a corresponding margin of 16.5%.4,5
+Diluted earnings per share was $1.88, down 2% year-over-year, and adjusted diluted earnings per share3 was $2.74, up 12% year-over-year.
+Income from operations and diluted earnings per share include a $39 million restructuring charge related to lease impairment charges and employee severance costs, as well as a $33 million impairment charge and a $25 million loss related to the business previously designated as held for sale. These items are excluded from adjusted income from operations4 and adjusted diluted earnings per share.3 
+New bookings were approximately $3.9 billion, up 6% year-over-year.6
+Cash generated from operations was $444 million, compared to $694 million in 2021.
+Genpact repurchased approximately 4.8 million of its common shares during the year for total consideration of approximately $214 million at an average price per share of $44.79.
+________________________________
+
+1 Revenue growth on a constant currency basis is a non-GAAP measure and is calculated by restating current-period activity using the prior fiscal period's foreign currency exchange rates adjusted for hedging gains/losses in such period.
+
+2 Total revenue and revenue from Data-Tech-AI services includes $12 million of revenue associated with a business designated as held for sale.
+
+3 Adjusted diluted earnings per share is a non-GAAP measure. A reconciliation of GAAP diluted earnings per share to adjusted diluted earnings per share is attached to this release.
+
+4 Adjusted income from operations and adjusted income from operations margin are non-GAAP measures. Reconciliations of each of GAAP income from operations and GAAP net income to adjusted income from operations and GAAP income from operations margin and GAAP net income margin to adjusted income from operations margin are attached to this release.
+
+5 Adjusted income from operations margin for the full year 2022 was derived by adjusting total revenue to exclude $12 million of revenue associated with a business designated as held for sale.
+
+6 New bookings, an operating measure, represents the total contract value of new contracts and certain renewals, extensions and changes to existing contracts.  Regular renewals of contracts with no change in scope are not counted as new bookings.
+
+
+Key Financial Highlights – Fourth Quarter 2022
+
+Total revenue was $1.10 billion, up 3% year-over-year (6% on a constant currency basis).1,2   
+Revenue from Data-Tech-AI services was $495 million, up 2% year-over-year (5% on a constant currency basis),1,2 representing 45% of total revenue.
+Revenue from Digital Operations services was $608 million, up 3% year-over-year (7% on a constant currency basis),1 representing 55% of total revenue.
+Net income was $90 million, up 23% year-over-year, with a corresponding margin of 8.1%.
+Income from operations was $128 million, up 14.1% year-over-year, with a corresponding margin of 11.6%.
+Adjusted income from operations was $187 million, up 21% year-over-year, with a corresponding margin of 17.0%.7,8
+Diluted earnings per share was $0.48, up 26% year-over-year, and adjusted diluted earnings per share3 was $0.70, up 30% year-over-year.
+Income from operations and diluted earnings per share include an $11 million impairment charge as well as an $11 million loss related to the business previously designated as held for sale. These items are excluded from adjusted income from operations4 and adjusted diluted earnings per share.3 
+Cash generated from operations was $230 million, compared to $247 million in the fourth quarter of 2021.
+Genpact repurchased approximately 710,000 of its common shares during the quarter for total consideration of approximately $32 million at an average price per share of $45.03.
+Capital Allocation
+
+Genpact's Board of Directors declared a quarterly cash dividend for the first quarter of 2023 of $0.1375 per common share, a 10% increase, payable on March 24, 2023 to shareholders of record as of the close of business on March 10, 2023, and approved an increase of $500 million to the Company's existing share repurchase authorization.  The newly approved quarterly dividend represents a planned annual dividend of $0.55 per common share, increased from $0.50 per common share in 2022. 
+
+Full Year 2023 Outlook
+
+Genpact expects:
+
+Total revenue in the range of $4.64 billion to $4.71 billion, up 6.0% to 7.5%, or 6.5% to 8.0% year-over-year on a constant currency basis.1
+Adjusted income from operations margin9 of approximately 16.8%.
+Adjusted diluted EPS10 in the range of $2.92 to $2.99.
+Conference Call to Discuss Financial Results
+
+Genpact's management will host an hour-long conference call beginning at 4:30 p.m. ET on February 9, 2023 to discuss the company's performance for the fourth quarter and full year ended December 31, 2022. Those who wish to participate can register here to receive a dial-in number and unique PIN to access the call seamlessly. It is recommended callers join 10 minutes prior to the start of the event (although you may register and dial in at any time during the call).  A live webcast of the call will also be made available on the Genpact Investor Relations website at https://www.genpact.com/investors. For those who cannot join the call live, a replay will be archived on the Genpact website after the end of the call. A transcript of the call will also be made available on the website.
+
+_______________________________
+
+7 Adjusted income from operations and adjusted income from operations margin are non-GAAP measures. Reconciliations of each of GAAP income from operations and GAAP net income to adjusted income from operations and GAAP income from operations margin and GAAP net income margin to adjusted income from operations margin are attached to this release.
+
+8 Adjusted income from operations margin for the fourth quarter of 2022 was derived by adjusting total revenue to exclude $3 million of revenue associated with a business designated as held for sale.
+
+9 Adjusted income from operations margin is a non-GAAP measure. A reconciliation of the outlook for each of GAAP income from operations margin and GAAP net income margin to adjusted income from operations margin is attached to this release.
+
+10 Adjusted diluted earnings per share is a non-GAAP measure. A reconciliation of the outlook for GAAP diluted earnings per share to adjusted diluted earnings per share is attached to this release.
+
+
+
+To supplement the consolidated financial statements presented in accordance with GAAP, this press release includes the following non-GAAP financial measures:
+
+Adjusted income from operations;
+Adjusted income from operations margin;
+Adjusted diluted earnings per share; and
+Revenue growth on a constant currency basis.
+These non-GAAP financial measures are not based on any comprehensive set of accounting rules or principles and should not be considered a substitute for, or superior to, financial measures calculated in accordance with GAAP, and may be different from non-GAAP financial measures used by other companies. Accordingly, these non-GAAP financial measures, the financial statements prepared in accordance with GAAP and the reconciliations of Genpact's GAAP financial statements to such non-GAAP financial measures should be carefully evaluated.
+
+Prior to July 2012, Genpact's management used financial statements that excluded significant acquisition-related expenses, amortization of related acquired intangibles, and amortization of acquired intangibles recorded at the company's formation in 2004 for its internal management reporting, budgeting and decision-making purposes, including comparing Genpact's operating results to that of its competitors. However, considering Genpact's acquisitions of varying scale and size, and the difficulty in predicting expenses relating to acquisitions and the amortization of acquired intangibles thereof, since July 2012 Genpact's management has used financial statements that exclude all acquisition-related expenses and amortization of acquired intangibles for its internal management reporting, budgeting and decision-making purposes, including comparing Genpact's operating results to those of its competitors. For the same reasons, since April 2016 Genpact's management has excluded the impairment of acquired intangible assets from the financial statements it uses for internal management purposes. Acquisition-related expenses are excluded in the period in which an acquisition is consummated. Genpact's management also uses financial statements that exclude stock-based compensation expense. Because of varying available valuation methodologies, subjective assumptions and the variety of award types that companies can use when adopting ASC 718 "Compensation-Stock Compensation," Genpact's management believes that providing non-GAAP financial measures that exclude such expenses allows investors to make additional comparisons between Genpact's operating results and those of other companies.
+
+During the second quarter of 2022, Genpact (a) initiated restructuring measures and, as a result, recorded a charge related to i) right-of-use lease assets and other assets related to certain abandoned leased office properties and ii) employee severance costs resulting from a focused reduction in Genpact's workforce and (b) approved a plan to divest a business that is no longer deemed strategic. Given the specialized nature of this business, we anticipated completing a transaction within twelve months after the end of the second quarter of 2022, and therefore, we classified the revenues and expenses related to this business as held for sale.  Additionally, during the third and fourth quarters of 2022, the Company recorded a non-cash impairment charge to adjust the carrying amount of the assets of the business designated as held for sale to their fair value. Genpact's management believes that excluding such restructuring charges and the revenues, expenses and impairment charge attributable to the business held for sale in calculating its non-GAAP financial measures provides useful information to both management and investors regarding the Company's financial performance and underlying business trends. Additionally, in its calculations of non-GAAP financial measures, Genpact's management has adjusted foreign exchange gains and losses, interest income and expense and income tax expenses from GAAP net income, and other income and expenses, and certain gains, losses and impairment charges attributable to equity-method investments from GAAP income from operations, because management believes that the Company's results after taking into account these adjustments more accurately reflect the Company's ongoing operations. In its calculations of adjusted diluted earnings per share, Genpact's management adds back adjusted stock-based compensation expense, amortization and impairment of acquired intangible assets, acquisition-related expenses and the related tax impact of such adjustments from GAAP diluted earnings per share. For the purpose of calculating adjusted diluted earnings per share, the combined current and deferred tax effect is determined by multiplying each pre-tax adjustment by the applicable statutory income tax rate. 
+
+Genpact's management provides information about revenues on a constant currency basis so that the revenues may be viewed without the impact of foreign currency exchange rate fluctuations compared to prior fiscal periods, thereby facilitating period-to-period comparisons of the Company's true business performance. Revenue growth on a constant currency basis is calculated by restating current-period activity using the prior fiscal period's foreign currency exchange rates adjusted for hedging gains/losses in such period.
+
+Accordingly, Genpact believes that the presentation of adjusted income from operations, adjusted income from operations margin, adjusted diluted earnings per share and revenue growth on a constant currency basis, when read in conjunction with the Company's reported results, can provide useful supplemental information to investors and management regarding financial and business trends relating to its financial condition and results of operations.
+
+A limitation of using adjusted income from operations and adjusted income from operations margin versus income from operations, income from operations margin, net income and net income margin calculated in accordance with GAAP is that these non-GAAP financial measures exclude certain recurring costs and certain other charges, namely stock-based compensation expense and amortization and impairment of acquired intangible assets. Management compensates for this limitation by providing specific information on the GAAP amounts excluded from adjusted income from operations and adjusted income from operations margin.
+
+Summary -
+
+From the financial data for EXL, IBM, and Genpact for 2022 to Q2 2024, here is a comparative analysis that positions these three companies in a competitive context:
+Revenue Growth
+ 
+    EXL: The company has demonstrated consistent revenue growth across quarters. For Q2 2024, EXL reported a revenue of $448.4 million, which is a 10.7% increase from Q2 2023. Over the past few years, EXL has maintained a growth trajectory, with 2023 annual revenue reaching $1.63 billion, up by 15.5% year-over-year.
+    IBM: IBM continues to lead in terms of total revenue. For Q2 2024, IBM generated $15.8 billion in revenue, up 2% year-over-year, with steady growth in its software and infrastructure segments. Although the growth is slower in percentage terms compared to EXL and Genpact, IBM’s sheer scale keeps it at the top of the market. In 2023, IBM reported a total annual revenue of $61.9 billion, an increase of 3% at constant currency.
+    Genpact: Genpact has also shown steady growth, with Q2 2024 revenue reaching $1.18 billion, a 6% increase from the previous year (7% in constant currency). In comparison, its 2023 revenue growth was aligned with EXL in percentage terms, indicating its growing competitive positioning.
+ 
+Profit Margins
+ 
+    EXL: The operating income margin for EXL in Q2 2024 was 13.7%, which has seen a slight decrease from 16.0% in Q2 2023. However, the adjusted operating income margin was stronger at 19.8%. This indicates EXL's ability to manage its operations effectively, despite some pressure on margins.
+    IBM: IBM's gross profit margin for Q2 2024 stood at 56.8% (GAAP), reflecting a strong operational efficiency in its software and infrastructure businesses. The company's strategic focus on hybrid cloud and AI, along with product mix improvements, has helped maintain healthy margins. IBM also posted a pre-tax income margin of 14.1%.
+    Genpact: Genpact's diluted EPS for Q2 2024 increased by 6% to $0.67, with adjusted diluted EPS up 10% to $0.79. Although Genpact’s margins aren't as high as IBM’s, the growth in EPS reflects operational improvements and cost efficiency measures.
+ 
+Strategic Focus
+ 
+    EXL: EXL’s strategic focus is heavily on data analytics and AI-led operations. With the acquisition of ITI Data and collaborations with NVIDIA, EXL is pushing to strengthen its position in high-growth sectors like banking, insurance, and healthcare. This aligns with industry trends towards data-driven decision-making and AI adoption.
+    IBM: IBM’s focus on hybrid cloud and AI, exemplified by its watsonx platform, has positioned it as a leader in enterprise AI solutions. The company’s strategic acquisitions, including the planned acquisition of HashiCorp, aim to create a comprehensive hybrid cloud platform. IBM’s ability to leverage AI and cloud at scale gives it a competitive edge in digital transformation initiatives.
+    Genpact: Genpact’s strategy revolves around operational execution through its "3+1 Execution Framework," focusing on leveraging AI and advanced technologies like generative AI. This aligns with the broader industry trend of integrating AI into business operations to enhance efficiency and drive innovation.
+ 
+Cash Flow and Investments
+ 
+    EXL: EXL has shown strong cash flow management, with ongoing investments in AI and data analytics to bolster its long-term growth. Its acquisition strategy aims to expand its service offerings and improve operational capabilities.
+    IBM: IBM has demonstrated significant free cash flow generation, with $4.5 billion in free cash flow in Q2 2024, allowing the company to continue its strategy of investing in AI, cloud, and strategic acquisitions. IBM's strong cash position supports both innovation and shareholder returns.
+    Genpact: Genpact’s robust cash flow has allowed it to increase its earnings guidance and continue its focus on innovation, particularly in AI. Genpact’s cash flow management reflects its commitment to reinvesting in technology to support future growth.
+ 
+Competitive Positioning
+ 
+    EXL: Positioned as a strong player in the data analytics and digital operations space, EXL competes directly with other data-driven service providers. Its focus on AI-led strategy and domain expertise offers differentiation in a crowded market.
+    IBM: IBM remains a dominant player in enterprise technology, with its vast portfolio in hybrid cloud and AI solutions setting it apart. Its scale and depth in AI and cloud infrastructure make it a formidable competitor, especially against smaller firms.
+    Genpact: Genpact competes by focusing on professional services and operational excellence. Its integration of AI into core services strengthens its position in the business process outsourcing sector and aligns with future trends in digital transformation.
+ 
+Conclusion
+ 
+    IBM leads in terms of scale and strategic positioning in AI and cloud, giving it a strong competitive advantage, especially with its focus on hybrid cloud solutions.
+    EXL shows robust growth in the data analytics space and is well-positioned to capitalize on AI-driven trends, making it a strong competitor in its niche.
+    Genpact continues to perform well by leveraging AI and operational execution, positioning itself as a key player in business process management with a focus on technological innovation.
+ 
+In a competitive context, IBM's strength lies in its ability to scale AI and cloud solutions across industries, while EXL and Genpact are focused on niche growth and operational efficiency through AI and data-driven strategies.
